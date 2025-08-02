@@ -1,0 +1,19 @@
+{
+  "TextEntityExtractor": {
+    "base_model_path": "./models/glm4-9b",
+    "lora_adapter_path": "./models/glm4-9b-lora/"
+  },
+  "ImageEntityExtractor": {
+    "MODEL_PATH": "./models/qwen-vl-32b"
+  },
+  "APIEntityExtractor": {
+    "api_key": "",
+    "model_name": "",
+    "api_base": ""
+  },
+  "dataset": {
+    "input_path": "./数据集/test/test_text.json",
+    "image_input_path": "./数据集/test/test_image/",
+    "image_output_path": "./output/image/"
+  }
+}
