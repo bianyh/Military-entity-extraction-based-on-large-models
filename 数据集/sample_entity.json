@@ -1,0 +1,3467 @@
+{
+  "0": [
+    {
+      "name": "PUMA",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 149,
+        "ymin": 261,
+        "xmax": 1617,
+        "ymax": 1019
+      }
+    }
+  ],
+  "4": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": [
+    {
+      "name": "Boeing E-3",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 281,
+        "ymin": 134,
+        "xmax": 1216,
+        "ymax": 843
+      }
+    }
+  ],
+  "11": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 367,
+        "ymin": 573,
+        "xmax": 1195,
+        "ymax": 848
+      }
+    },
+    {
+      "name": "Taktisches Luftwaffengeschwader 51 Immelmann",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "12": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 225,
+        "ymin": 390,
+        "xmax": 1520,
+        "ymax": 725
+      }
+    },
+    {
+      "name": "Tactical Air Force Squadron 51",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "Syria",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "13": [
+    {
+      "name": "Airbus A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 187,
+        "ymin": 568,
+        "xmax": 1416,
+        "ymax": 873
+      }
+    }
+  ],
+  "14": [
+    {
+      "name": "A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 108,
+        "ymin": 274,
+        "xmax": 1447,
+        "ymax": 684
+      }
+    }
+  ],
+  "15": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 676,
+        "ymin": 136,
+        "xmax": 1039,
+        "ymax": 267
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 265,
+        "ymin": 297,
+        "xmax": 608,
+        "ymax": 416
+      }
+    },
+    {
+      "name": "A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 748,
+        "ymin": 697,
+        "xmax": 1513,
+        "ymax": 899
+      }
+    },
+    {
+      "name": "Transall",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 127,
+        "ymin": 452,
+        "xmax": 761,
+        "ymax": 648
+      }
+    }
+  ],
+  "16": [
+    {
+      "name": "Airbus 10",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 133,
+        "ymin": 323,
+        "xmax": 1371,
+        "ymax": 667
+      }
+    }
+  ],
+  "19": [],
+  "20": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 6,
+        "ymin": 363,
+        "xmax": 1600,
+        "ymax": 939
+      }
+    },
+    {
+      "name": "Luftwaffe",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "Quick Reaction Alert",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "southern Germany",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "21": [
+    {
+      "name": "Quick Reaction Alert",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "southern Germany",
+      "label": "location",
+      "bnd": null
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 34,
+        "ymin": 501,
+        "xmax": 1481,
+        "ymax": 960
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 905,
+        "ymin": 112,
+        "xmax": 1445,
+        "ymax": 514
+      }
+    }
+  ],
+  "22": [
+    {
+      "name": "Quick Reaction Alert",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "southern Germany",
+      "label": "location",
+      "bnd": null
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 36,
+        "ymin": 310,
+        "xmax": 1556,
+        "ymax": 763
+      }
+    },
+    {
+      "name": "Luftwaffengeschwader",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "23": [
+    {
+      "name": "Quick Reaction Alert",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "southeastern Germany",
+      "label": "location",
+      "bnd": null
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 159,
+        "ymin": 263,
+        "xmax": 1418,
+        "ymax": 731
+      }
+    }
+  ],
+  "24": [],
+  "26": [],
+  "28": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 63,
+        "ymin": 414,
+        "xmax": 1262,
+        "ymax": 782
+      }
+    },
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1001,
+        "ymin": 514,
+        "xmax": 1509,
+        "ymax": 699
+      }
+    },
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "29": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 299,
+        "ymin": 76,
+        "xmax": 1551,
+        "ymax": 939
+      }
+    },
+    {
+      "name": "Antonow AN-124",
+      "label": "aircraft",
+      "bnd": null
+    },
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "30": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 174,
+        "ymin": 48,
+        "xmax": 1620,
+        "ymax": 796
+      }
+    },
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "31": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 55,
+        "xmax": 1619,
+        "ymax": 873
+      }
+    },
+    {
+      "name": "UN-Mission",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "32": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    },
+    {
+      "name": "Antonow AN-124",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 769,
+        "ymin": 197,
+        "xmax": 1596,
+        "ymax": 503
+      }
+    },
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "33": [
+    {
+      "name": "Antonow AN-124",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 676,
+        "ymin": 97,
+        "xmax": 1620,
+        "ymax": 707
+      }
+    },
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 327,
+        "ymin": 471,
+        "xmax": 984,
+        "ymax": 676
+      }
+    },
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "34": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 212,
+        "ymin": 384,
+        "xmax": 1543,
+        "ymax": 737
+      }
+    }
+  ],
+  "35": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "36": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 148,
+        "ymin": 0,
+        "xmax": 1420,
+        "ymax": 1073
+      }
+    }
+  ],
+  "37": [
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 4,
+        "xmax": 1583,
+        "ymax": 975
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 310,
+        "ymin": 531,
+        "xmax": 1441,
+        "ymax": 952
+      }
+    }
+  ],
+  "38": [
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 780,
+        "ymin": 342,
+        "xmax": 1579,
+        "ymax": 618
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 561,
+        "ymin": 463,
+        "xmax": 1169,
+        "ymax": 654
+      }
+    },
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 72,
+        "ymin": 576,
+        "xmax": 637,
+        "ymax": 714
+      }
+    },
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 269,
+        "ymin": 533,
+        "xmax": 880,
+        "ymax": 676
+      }
+    }
+  ],
+  "39": [
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 735,
+        "ymin": 514,
+        "xmax": 1150,
+        "ymax": 673
+      }
+    },
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1090,
+        "ymin": 608,
+        "xmax": 1560,
+        "ymax": 773
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 40,
+        "ymin": 272,
+        "xmax": 376,
+        "ymax": 395
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 348,
+        "ymin": 378,
+        "xmax": 703,
+        "ymax": 516
+      }
+    }
+  ],
+  "40": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 323,
+        "ymin": 142,
+        "xmax": 1092,
+        "ymax": 846
+      }
+    }
+  ],
+  "41": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": -1,
+        "ymin": 155,
+        "xmax": 1262,
+        "ymax": 907
+      }
+    }
+  ],
+  "42": [
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 72,
+        "ymin": 42,
+        "xmax": 625,
+        "ymax": 216
+      }
+    },
+    {
+      "name": "F-18 Hornet",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 191,
+        "ymin": 240,
+        "xmax": 829,
+        "ymax": 416
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 474,
+        "ymin": 435,
+        "xmax": 1120,
+        "ymax": 686
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 665,
+        "ymin": 756,
+        "xmax": 1458,
+        "ymax": 1056
+      }
+    }
+  ],
+  "43": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 138,
+        "xmax": 1620,
+        "ymax": 990
+      }
+    },
+    {
+      "name": "HEA helmet",
+      "label": "other",
+      "bnd": {
+        "xmin": 690,
+        "ymin": 221,
+        "xmax": 982,
+        "ymax": 531
+      }
+    },
+    {
+      "name": "Head-Up-Display",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "44": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 36,
+        "ymin": 666,
+        "xmax": 697,
+        "ymax": 964
+      }
+    }
+  ],
+  "45": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 778,
+        "ymin": 612,
+        "xmax": 1532,
+        "ymax": 831
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 391,
+        "ymin": 680,
+        "xmax": 895,
+        "ymax": 831
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 214,
+        "ymin": 729,
+        "xmax": 559,
+        "ymax": 844
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 131,
+        "ymin": 750,
+        "xmax": 331,
+        "ymax": 833
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 48,
+        "ymin": 767,
+        "xmax": 178,
+        "ymax": 833
+      }
+    }
+  ],
+  "46": [],
+  "47": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 93,
+        "ymin": 189,
+        "xmax": 1513,
+        "ymax": 1024
+      }
+    }
+  ],
+  "48": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 408,
+        "ymin": 128,
+        "xmax": 1474,
+        "ymax": 748
+      }
+    }
+  ],
+  "49": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 311,
+        "ymin": 652,
+        "xmax": 667,
+        "ymax": 822
+      }
+    }
+  ],
+  "50": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 364,
+        "ymin": 17,
+        "xmax": 1459,
+        "ymax": 1040
+      }
+    }
+  ],
+  "51": [],
+  "52": [
+    {
+      "name": "Heron 1",
+      "label": "other",
+      "bnd": {
+        "xmin": 236,
+        "ymin": 106,
+        "xmax": 612,
+        "ymax": 675
+      }
+    }
+  ],
+  "53": [],
+  "54": [],
+  "55": [],
+  "56": [],
+  "57": [],
+  "58": [],
+  "59": [],
+  "60": [
+    {
+      "name": "Sch\u7709tzenpanzer Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 571,
+        "ymin": 184,
+        "xmax": 1585,
+        "ymax": 684
+      }
+    }
+  ],
+  "61": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 510,
+        "ymin": 559,
+        "xmax": 756,
+        "ymax": 739
+      }
+    }
+  ],
+  "62": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 195,
+        "ymin": 318,
+        "xmax": 1024,
+        "ymax": 676
+      }
+    }
+  ],
+  "63": [],
+  "64": [],
+  "68": [],
+  "70": [],
+  "76": [
+    {
+      "name": "CH-53",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 163,
+        "ymin": 122,
+        "xmax": 1660,
+        "ymax": 720
+      }
+    }
+  ],
+  "77": [
+    {
+      "name": "F-16C/D",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 537,
+        "ymin": 46,
+        "xmax": 878,
+        "ymax": 310
+      }
+    },
+    {
+      "name": "F-16C/D",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 584,
+        "ymin": 795,
+        "xmax": 916,
+        "ymax": 1037
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 218,
+        "ymin": 374,
+        "xmax": 612,
+        "ymax": 676
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1007,
+        "ymin": 412,
+        "xmax": 1330,
+        "ymax": 680
+      }
+    }
+  ],
+  "78": [
+    {
+      "name": "F-16C/D \"Barak\"",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 48,
+        "ymin": 280,
+        "xmax": 1526,
+        "ymax": 918
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 631,
+        "ymin": 153,
+        "xmax": 1479,
+        "ymax": 533
+      }
+    }
+  ],
+  "79": [
+    {
+      "name": "Gulfstream G-550",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 146,
+        "ymin": 399,
+        "xmax": 767,
+        "ymax": 567
+      }
+    }
+  ],
+  "83": [],
+  "84": [],
+  "85": [],
+  "86": [],
+  "87": [],
+  "90": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 55,
+        "ymin": 259,
+        "xmax": 1420,
+        "ymax": 716
+      }
+    }
+  ],
+  "92": [],
+  "93": [
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 104,
+        "ymin": 507,
+        "xmax": 540,
+        "ymax": 716
+      }
+    },
+    {
+      "name": "Eurofighters",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 557,
+        "ymin": 490,
+        "xmax": 1538,
+        "ymax": 972
+      }
+    }
+  ],
+  "94": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 310,
+        "ymin": 299,
+        "xmax": 1579,
+        "ymax": 814
+      }
+    }
+  ],
+  "95": [],
+  "96": [],
+  "97": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 4,
+        "ymin": 136,
+        "xmax": 1619,
+        "ymax": 923
+      }
+    }
+  ],
+  "98": [
+    {
+      "name": "Eurofighter Eagle Star",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 954,
+        "ymin": 389,
+        "xmax": 1543,
+        "ymax": 571
+      }
+    }
+  ],
+  "99": [
+    {
+      "name": "F-15",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 225,
+        "ymin": 116,
+        "xmax": 997,
+        "ymax": 384
+      }
+    },
+    {
+      "name": "Eurofighter Eagle Star",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 374,
+        "ymin": 153,
+        "xmax": 1216,
+        "ymax": 567
+      }
+    },
+    {
+      "name": "F-35",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 8,
+        "ymin": 282,
+        "xmax": 1537,
+        "ymax": 1021
+      }
+    }
+  ],
+  "100": [
+    {
+      "name": "Eurofighter Eagle Star",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 182,
+        "ymin": 172,
+        "xmax": 477,
+        "ymax": 307
+      }
+    },
+    {
+      "name": "Eurofighter Eagle Star",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 81,
+        "ymin": 808,
+        "xmax": 688,
+        "ymax": 1025
+      }
+    }
+  ],
+  "101": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 713,
+        "ymin": 271,
+        "xmax": 1478,
+        "ymax": 560
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 978,
+        "ymin": 247,
+        "xmax": 1558,
+        "ymax": 450
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 64,
+        "ymin": 301,
+        "xmax": 1400,
+        "ymax": 855
+      }
+    }
+  ],
+  "102": [],
+  "103": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 123,
+        "ymin": 231,
+        "xmax": 850,
+        "ymax": 498
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 58,
+        "ymin": 396,
+        "xmax": 1126,
+        "ymax": 788
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 686,
+        "ymin": 239,
+        "xmax": 1147,
+        "ymax": 448
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1070,
+        "ymin": 234,
+        "xmax": 1600,
+        "ymax": 482
+      }
+    },
+    {
+      "name": "Tactical Air Force Squadron 31",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "104": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 334,
+        "ymin": 367,
+        "xmax": 1581,
+        "ymax": 803
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 10,
+        "ymin": 536,
+        "xmax": 498,
+        "ymax": 795
+      }
+    }
+  ],
+  "105": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 455,
+        "ymin": 280,
+        "xmax": 1451,
+        "ymax": 585
+      }
+    }
+  ],
+  "107": [],
+  "109": [],
+  "110": [],
+  "111": [],
+  "116": [
+    {
+      "name": "Dachs",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 375,
+        "ymin": 51,
+        "xmax": 1224,
+        "ymax": 894
+      }
+    },
+    {
+      "name": "Havel",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "118": [],
+  "119": [
+    {
+      "name": "Cougar AS532",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 174,
+        "ymin": 58,
+        "xmax": 1342,
+        "ymax": 584
+      }
+    }
+  ],
+  "120": [],
+  "121": [
+    {
+      "name": "Orion",
+      "label": "other",
+      "bnd": {
+        "xmin": 294,
+        "ymin": 96,
+        "xmax": 1006,
+        "ymax": 887
+      }
+    }
+  ],
+  "122": [],
+  "123": [
+    {
+      "name": "Orion",
+      "label": "other",
+      "bnd": {
+        "xmin": 258,
+        "ymin": 0,
+        "xmax": 1019,
+        "ymax": 969
+      }
+    }
+  ],
+  "124": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 6,
+        "ymin": 4,
+        "xmax": 1607,
+        "ymax": 811
+      }
+    }
+  ],
+  "125": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 6,
+        "ymin": 3,
+        "xmax": 1634,
+        "ymax": 771
+      }
+    }
+  ],
+  "126": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 6,
+        "ymin": 3,
+        "xmax": 1607,
+        "ymax": 856
+      }
+    }
+  ],
+  "127": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 981,
+        "ymin": 333,
+        "xmax": 1598,
+        "ymax": 507
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 602,
+        "ymin": 343,
+        "xmax": 1308,
+        "ymax": 536
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 11,
+        "ymin": 397,
+        "xmax": 1466,
+        "ymax": 1035
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 168,
+        "ymin": 368,
+        "xmax": 817,
+        "ymax": 543
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 77,
+        "ymin": 356,
+        "xmax": 721,
+        "ymax": 627
+      }
+    }
+  ],
+  "128": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 11,
+        "ymin": 509,
+        "xmax": 1614,
+        "ymax": 1076
+      }
+    }
+  ],
+  "129": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 8,
+        "ymin": 5,
+        "xmax": 720,
+        "ymax": 413
+      }
+    }
+  ],
+  "130": [],
+  "131": [],
+  "132": [
+    {
+      "name": "Airbus A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 94,
+        "ymin": 202,
+        "xmax": 1594,
+        "ymax": 796
+      }
+    }
+  ],
+  "133": [
+    {
+      "name": "Airbus A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 288,
+        "ymin": 304,
+        "xmax": 1483,
+        "ymax": 611
+      }
+    }
+  ],
+  "134": [
+    {
+      "name": "Airbus A400M",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "135": [],
+  "136": [
+    {
+      "name": "Transportflugzeug Transall C-160",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 227,
+        "ymin": 297,
+        "xmax": 1343,
+        "ymax": 917
+      }
+    }
+  ],
+  "137": [
+    {
+      "name": "Transall C-160",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 38,
+        "ymin": 693,
+        "xmax": 250,
+        "ymax": 737
+      }
+    },
+    {
+      "name": "Hercules C-27",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 244,
+        "ymin": 360,
+        "xmax": 656,
+        "ymax": 494
+      }
+    }
+  ],
+  "138": [],
+  "139": [],
+  "143": [],
+  "146": [],
+  "148": [],
+  "149": [],
+  "151": [
+    {
+      "name": "Daesh",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 12,
+        "ymin": 199,
+        "xmax": 1156,
+        "ymax": 678
+      }
+    },
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1045,
+        "ymin": 376,
+        "xmax": 1551,
+        "ymax": 654
+      }
+    }
+  ],
+  "152": [],
+  "153": [
+    {
+      "name": "Rafale M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 197,
+        "ymin": 431,
+        "xmax": 437,
+        "ymax": 593
+      }
+    },
+    {
+      "name": "Rafale M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 701,
+        "ymin": 459,
+        "xmax": 946,
+        "ymax": 639
+      }
+    },
+    {
+      "name": "Rafale M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1154,
+        "ymin": 514,
+        "xmax": 1396,
+        "ymax": 697
+      }
+    },
+    {
+      "name": "Daesh",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "154": [],
+  "156": [],
+  "157": [
+    {
+      "name": "Sea Lynx MK88A",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 61,
+        "ymin": 157,
+        "xmax": 1551,
+        "ymax": 620
+      }
+    }
+  ],
+  "159": [],
+  "160": [
+    {
+      "name": "Daesh",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "161": [
+    {
+      "name": "Mediterranean Sea",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "164": [],
+  "172": [
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "173": [],
+  "177": [],
+  "178": [
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "179": [],
+  "184": [],
+  "185": [
+    {
+      "name": "Einsatzgruppenversorger",
+      "label": "vessel",
+      "bnd": {
+        "xmin": 177,
+        "ymin": 236,
+        "xmax": 574,
+        "ymax": 908
+      }
+    }
+  ],
+  "187": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 182,
+        "ymin": 80,
+        "xmax": 1488,
+        "ymax": 937
+      }
+    }
+  ],
+  "188": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 238,
+        "ymin": 280,
+        "xmax": 741,
+        "ymax": 722
+      }
+    },
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 486,
+        "ymin": 116,
+        "xmax": 1439,
+        "ymax": 824
+      }
+    }
+  ],
+  "189": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 350,
+        "ymin": 17,
+        "xmax": 1260,
+        "ymax": 820
+      }
+    }
+  ],
+  "190": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": null
+    }
+  ],
+  "191": [
+    {
+      "name": "Jaguar",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 265,
+        "ymin": 89,
+        "xmax": 1585,
+        "ymax": 737
+      }
+    }
+  ],
+  "192": [],
+  "193": [],
+  "194": [],
+  "195": [],
+  "196": [],
+  "197": [
+    {
+      "name": "Airbus A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 2,
+        "xmax": 1619,
+        "ymax": 946
+      }
+    }
+  ],
+  "209": [],
+  "211": [],
+  "212": [],
+  "213": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 156,
+        "ymin": 133,
+        "xmax": 1736,
+        "ymax": 989
+      }
+    }
+  ],
+  "214": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "215": [],
+  "216": [],
+  "217": [],
+  "218": [],
+  "219": [],
+  "220": [],
+  "221": [],
+  "222": [],
+  "223": [],
+  "224": [
+    {
+      "name": "F-15",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 102,
+        "ymin": 476,
+        "xmax": 741,
+        "ymax": 663
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 918,
+        "ymin": 486,
+        "xmax": 1441,
+        "ymax": 659
+      }
+    }
+  ],
+  "225": [
+    {
+      "name": "Tactical Air Force Squadron 74",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 78,
+        "ymin": 329,
+        "xmax": 1564,
+        "ymax": 737
+      }
+    }
+  ],
+  "226": [
+    {
+      "name": "Bavarian Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 512,
+        "ymin": 291,
+        "xmax": 1505,
+        "ymax": 584
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 63,
+        "ymin": 778,
+        "xmax": 633,
+        "ymax": 956
+      }
+    },
+    {
+      "name": "Tactical Air Force Squadron 74",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "227": [],
+  "228": [],
+  "230": [],
+  "231": [],
+  "235": [],
+  "236": [],
+  "237": [
+    {
+      "name": "A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 21,
+        "ymin": 316,
+        "xmax": 1598,
+        "ymax": 803
+      }
+    }
+  ],
+  "238": [
+    {
+      "name": "A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 6,
+        "xmax": 1647,
+        "ymax": 625
+      }
+    }
+  ],
+  "239": [],
+  "240": [],
+  "241": [],
+  "242": [
+    {
+      "name": "A400M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 321,
+        "xmax": 1619,
+        "ymax": 805
+      }
+    }
+  ],
+  "243": [],
+  "244": [],
+  "245": [],
+  "246": [],
+  "247": [
+    {
+      "name": "Eagle 4",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 82,
+        "ymin": 278,
+        "xmax": 973,
+        "ymax": 1003
+      }
+    }
+  ],
+  "248": [
+    {
+      "name": "NH90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 0,
+        "xmax": 1619,
+        "ymax": 1076
+      }
+    }
+  ],
+  "249": [],
+  "250": [
+    {
+      "name": "Dingo",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 522,
+        "ymin": 289,
+        "xmax": 1264,
+        "ymax": 933
+      }
+    }
+  ],
+  "251": [],
+  "252": [],
+  "253": [],
+  "256": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "257": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 289,
+        "ymin": 329,
+        "xmax": 1456,
+        "ymax": 690
+      }
+    }
+  ],
+  "259": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "260": [
+    {
+      "name": "Fennek",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 404,
+        "ymin": 347,
+        "xmax": 1617,
+        "ymax": 927
+      }
+    }
+  ],
+  "261": [],
+  "262": [],
+  "263": [],
+  "264": [],
+  "265": [],
+  "266": [],
+  "267": [],
+  "268": [],
+  "270": [
+    {
+      "name": "PATRIOT",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 59,
+        "ymin": 154,
+        "xmax": 1251,
+        "ymax": 1027
+      }
+    }
+  ],
+  "271": [
+    {
+      "name": "Fliegerfaust 2 Stinger",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 206,
+        "ymin": 244,
+        "xmax": 803,
+        "ymax": 454
+      }
+    }
+  ],
+  "272": [],
+  "273": [
+    {
+      "name": "E-2 Hawkeye",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 27,
+        "ymin": 363,
+        "xmax": 1262,
+        "ymax": 710
+      }
+    },
+    {
+      "name": "Daesh",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "274": [],
+  "275": [],
+  "277": [
+    {
+      "name": "Africa",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "278": [
+    {
+      "name": "Mediterranean Sea",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "279": [],
+  "280": [],
+  "281": [
+    {
+      "name": "SM 2",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 525,
+        "ymin": 245,
+        "xmax": 540,
+        "ymax": 286
+      }
+    }
+  ],
+  "283": [
+    {
+      "name": "BV 206 D",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 686,
+        "ymin": 469,
+        "xmax": 1311,
+        "ymax": 1033
+      }
+    }
+  ],
+  "284": [
+    {
+      "name": "BV 206 S",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 35,
+        "ymin": 146,
+        "xmax": 1645,
+        "ymax": 870
+      }
+    }
+  ],
+  "287": [
+    {
+      "name": "Alps",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "288": [
+    {
+      "name": "Alps",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "289": [],
+  "291": [
+    {
+      "name": "Alps",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "292": [
+    {
+      "name": "Alps",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "293": [
+    {
+      "name": "NH90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 7,
+        "xmax": 1188,
+        "ymax": 780
+      }
+    }
+  ],
+  "294": [
+    {
+      "name": "NH90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 374,
+        "ymin": 261,
+        "xmax": 929,
+        "ymax": 592
+      }
+    }
+  ],
+  "295": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "296": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 61,
+        "ymin": 8,
+        "xmax": 1401,
+        "ymax": 920
+      }
+    }
+  ],
+  "297": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "298": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 535,
+        "ymin": 355,
+        "xmax": 1218,
+        "ymax": 673
+      }
+    }
+  ],
+  "299": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "300": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 193,
+        "ymin": 131,
+        "xmax": 1339,
+        "ymax": 918
+      }
+    }
+  ],
+  "302": [],
+  "303": [],
+  "305": [],
+  "306": [],
+  "308": [
+    {
+      "name": "MILAN",
+      "label": "weapon",
+      "bnd": null
+    }
+  ],
+  "309": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 6,
+        "ymin": 78,
+        "xmax": 1614,
+        "ymax": 1047
+      }
+    }
+  ],
+  "310": [],
+  "311": [],
+  "314": [],
+  "315": [],
+  "316": [],
+  "320": [],
+  "321": [],
+  "325": [],
+  "326": [],
+  "327": [],
+  "328": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 227,
+        "ymin": 284,
+        "xmax": 1311,
+        "ymax": 731
+      }
+    }
+  ],
+  "329": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 373,
+        "ymin": 420,
+        "xmax": 965,
+        "ymax": 705
+      }
+    }
+  ],
+  "330": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 206,
+        "ymin": 36,
+        "xmax": 1445,
+        "ymax": 875
+      }
+    }
+  ],
+  "331": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 55,
+        "ymin": 374,
+        "xmax": 1466,
+        "ymax": 937
+      }
+    }
+  ],
+  "332": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 23,
+        "ymin": 318,
+        "xmax": 1381,
+        "ymax": 829
+      }
+    }
+  ],
+  "333": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 65,
+        "ymin": 557,
+        "xmax": 357,
+        "ymax": 646
+      }
+    },
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 512,
+        "ymin": 457,
+        "xmax": 994,
+        "ymax": 603
+      }
+    }
+  ],
+  "334": [
+    {
+      "name": "Tornado",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 21,
+        "ymin": 82,
+        "xmax": 1619,
+        "ymax": 1080
+      }
+    }
+  ],
+  "339": [],
+  "340": [],
+  "341": [],
+  "342": [
+    {
+      "name": "CPR",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "345": [],
+  "347": [],
+  "349": [],
+  "350": [],
+  "351": [],
+  "355": [],
+  "356": [
+    {
+      "name": "CH 53",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 47,
+        "ymin": 196,
+        "xmax": 639,
+        "ymax": 436
+      }
+    }
+  ],
+  "357": [],
+  "359": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 837,
+        "ymin": 595,
+        "xmax": 971,
+        "ymax": 671
+      }
+    }
+  ],
+  "361": [
+    {
+      "name": "Pistol 8",
+      "label": "weapon",
+      "bnd": null
+    }
+  ],
+  "362": [
+    {
+      "name": "P8",
+      "label": "weapon",
+      "bnd": null
+    }
+  ],
+  "363": [
+    {
+      "name": "P8",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 996,
+        "ymin": 352,
+        "xmax": 1017,
+        "ymax": 372
+      }
+    }
+  ],
+  "365": [
+    {
+      "name": "P8",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 745,
+        "ymin": 249,
+        "xmax": 903,
+        "ymax": 392
+      }
+    }
+  ],
+  "371": [
+    {
+      "name": "CH-53GS",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 6,
+        "xmax": 1619,
+        "ymax": 969
+      }
+    }
+  ],
+  "372": [],
+  "373": [
+    {
+      "name": "CH-53GS",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 189,
+        "ymin": 138,
+        "xmax": 1381,
+        "ymax": 574
+      }
+    }
+  ],
+  "380": [],
+  "381": [
+    {
+      "name": "Gaza Strip",
+      "label": "location",
+      "bnd": null
+    },
+    {
+      "name": "C-130J Hercules",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 355,
+        "ymin": 2,
+        "xmax": 1619,
+        "ymax": 840
+      }
+    }
+  ],
+  "384": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 754,
+        "ymin": 469,
+        "xmax": 933,
+        "ymax": 544
+      }
+    }
+  ],
+  "385": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 27,
+        "ymin": 153,
+        "xmax": 1430,
+        "ymax": 780
+      }
+    }
+  ],
+  "386": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 386,
+        "ymin": 357,
+        "xmax": 1388,
+        "ymax": 673
+      }
+    }
+  ],
+  "387": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 486,
+        "ymin": 44,
+        "xmax": 1575,
+        "ymax": 803
+      }
+    }
+  ],
+  "396": [
+    {
+      "name": "CH-53",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 252,
+        "ymin": 14,
+        "xmax": 1352,
+        "ymax": 584
+      }
+    }
+  ],
+  "400": [
+    {
+      "name": "Pionierpanzer Dachs",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 308,
+        "ymin": 569,
+        "xmax": 1099,
+        "ymax": 867
+      }
+    }
+  ],
+  "401": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1024,
+        "ymin": 59,
+        "xmax": 1534,
+        "ymax": 318
+      }
+    }
+  ],
+  "402": [
+    {
+      "name": "Medium Girder Bridge",
+      "label": "other",
+      "bnd": {
+        "xmin": 144,
+        "ymin": 614,
+        "xmax": 1124,
+        "ymax": 946
+      }
+    }
+  ],
+  "403": [
+    {
+      "name": "Pioneer Tank Dachs",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 153,
+        "ymin": 395,
+        "xmax": 1364,
+        "ymax": 737
+      }
+    }
+  ],
+  "406": [
+    {
+      "name": "Pionierpanzer Dachs",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 710,
+        "ymin": 369,
+        "xmax": 1460,
+        "ymax": 990
+      }
+    }
+  ],
+  "409": [
+    {
+      "name": "Medium Girder Bridge",
+      "label": "other",
+      "bnd": {
+        "xmin": 204,
+        "ymin": 367,
+        "xmax": 1350,
+        "ymax": 784
+      }
+    }
+  ],
+  "410": [],
+  "411": [],
+  "412": [],
+  "413": [
+    {
+      "name": "EC 135",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 144,
+        "ymin": 25,
+        "xmax": 1273,
+        "ymax": 669
+      }
+    }
+  ],
+  "414": [
+    {
+      "name": "EC 135",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "418": [
+    {
+      "name": "EC 135",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 544,
+        "ymin": 97,
+        "xmax": 1460,
+        "ymax": 697
+      }
+    }
+  ],
+  "421": [],
+  "422": [],
+  "423": [],
+  "425": [
+    {
+      "name": "NH-90 NTH Sea Lion",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 23,
+        "xmax": 1620,
+        "ymax": 986
+      }
+    }
+  ],
+  "426": [
+    {
+      "name": "Sea King",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 1186,
+        "ymin": 525,
+        "xmax": 1611,
+        "ymax": 697
+      }
+    },
+    {
+      "name": "NH-90 NTH Sea Lion",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 21,
+        "ymin": 386,
+        "xmax": 1350,
+        "ymax": 761
+      }
+    }
+  ],
+  "427": [
+    {
+      "name": "NH-90 NTH Sea Lion",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 59,
+        "ymin": 176,
+        "xmax": 1617,
+        "ymax": 873
+      }
+    }
+  ],
+  "428": [],
+  "429": [],
+  "430": [
+    {
+      "name": "Leopard 2 A7",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 471,
+        "ymin": 400,
+        "xmax": 1380,
+        "ymax": 965
+      }
+    }
+  ],
+  "431": [],
+  "432": [
+    {
+      "name": "Tiger",
+      "label": "vehicle",
+      "bnd": null
+    }
+  ],
+  "433": [
+    {
+      "name": "Mars",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 562,
+        "ymin": 265,
+        "xmax": 1430,
+        "ymax": 834
+      }
+    }
+  ],
+  "434": [
+    {
+      "name": "Leopard 2 A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 220,
+        "ymin": 620,
+        "xmax": 451,
+        "ymax": 729
+      }
+    }
+  ],
+  "435": [
+    {
+      "name": "NH90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 337,
+        "ymin": 44,
+        "xmax": 1602,
+        "ymax": 711
+      }
+    }
+  ],
+  "436": [],
+  "438": [
+    {
+      "name": "Sch\u7709tzenpanzer Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 338,
+        "ymin": 4,
+        "xmax": 998,
+        "ymax": 941
+      }
+    }
+  ],
+  "439": [
+    {
+      "name": "Leopard 2 A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 439,
+        "ymin": 604,
+        "xmax": 834,
+        "ymax": 944
+      }
+    }
+  ],
+  "440": [
+    {
+      "name": "NH90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 19,
+        "ymin": 297,
+        "xmax": 1327,
+        "ymax": 719
+      }
+    },
+    {
+      "name": "Forward Air MedEvac",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "441": [],
+  "442": [
+    {
+      "name": "Puma",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 48,
+        "ymin": 429,
+        "xmax": 920,
+        "ymax": 926
+      }
+    }
+  ],
+  "443": [],
+  "444": [
+    {
+      "name": "Leopard 2",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 255,
+        "ymin": 121,
+        "xmax": 1354,
+        "ymax": 686
+      }
+    }
+  ],
+  "445": [
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 160,
+        "ymin": 40,
+        "xmax": 1549,
+        "ymax": 714
+      }
+    },
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 190,
+        "ymin": 597,
+        "xmax": 1365,
+        "ymax": 1018
+      }
+    }
+  ],
+  "446": [],
+  "447": [
+    {
+      "name": "Leopard 2 A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 106,
+        "ymin": 367,
+        "xmax": 645,
+        "ymax": 843
+      }
+    },
+    {
+      "name": "B\u7709ffel",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 401,
+        "ymin": 207,
+        "xmax": 582,
+        "ymax": 358
+      }
+    }
+  ],
+  "448": [
+    {
+      "name": "Iveko Trekker",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 257,
+        "ymin": 19,
+        "xmax": 1456,
+        "ymax": 901
+      }
+    },
+    {
+      "name": "ABC-Defense",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "449": [],
+  "450": [
+    {
+      "name": "Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 805,
+        "ymin": 206,
+        "xmax": 1262,
+        "ymax": 474
+      }
+    }
+  ],
+  "451": [
+    {
+      "name": "M113",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 482,
+        "ymin": 522,
+        "xmax": 1367,
+        "ymax": 1018
+      }
+    }
+  ],
+  "452": [
+    {
+      "name": "Leopard 2A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 465,
+        "ymin": 480,
+        "xmax": 1037,
+        "ymax": 614
+      }
+    }
+  ],
+  "453": [
+    {
+      "name": "Marder 1A3",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 99,
+        "ymin": 218,
+        "xmax": 1530,
+        "ymax": 918
+      }
+    }
+  ],
+  "454": [
+    {
+      "name": "Leopard 2A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 905,
+        "ymin": 206,
+        "xmax": 1503,
+        "ymax": 440
+      }
+    }
+  ],
+  "455": [
+    {
+      "name": "Leopard 2A7",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 306,
+        "ymin": 452,
+        "xmax": 1422,
+        "ymax": 858
+      }
+    }
+  ],
+  "456": [
+    {
+      "name": "Leopard 2 A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 148,
+        "ymin": 258,
+        "xmax": 877,
+        "ymax": 977
+      }
+    },
+    {
+      "name": "Leopard 2 A6",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 523,
+        "ymin": 75,
+        "xmax": 1072,
+        "ymax": 728
+      }
+    }
+  ],
+  "457": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 288,
+        "ymin": 632,
+        "xmax": 761,
+        "ymax": 961
+      }
+    }
+  ],
+  "460": [],
+  "461": [
+    {
+      "name": "Panzerhaubitze 2000",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 114,
+        "ymin": 287,
+        "xmax": 1216,
+        "ymax": 990
+      }
+    },
+    {
+      "name": "Gefechtsverband Arty-Task Force",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "462": [
+    {
+      "name": "MARS",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 359,
+        "ymin": 216,
+        "xmax": 1031,
+        "ymax": 684
+      }
+    }
+  ],
+  "464": [
+    {
+      "name": "Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 546,
+        "xmax": 559,
+        "ymax": 1071
+      }
+    }
+  ],
+  "465": [],
+  "466": [
+    {
+      "name": "Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 459,
+        "ymin": 153,
+        "xmax": 1318,
+        "ymax": 892
+      }
+    },
+    {
+      "name": "Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 1099,
+        "ymin": 414,
+        "xmax": 1537,
+        "ymax": 784
+      }
+    }
+  ],
+  "467": [
+    {
+      "name": "Marder",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 10,
+        "ymin": 272,
+        "xmax": 1615,
+        "ymax": 1067
+      }
+    }
+  ],
+  "468": [
+    {
+      "name": "Eurofighter",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 66,
+        "ymin": 212,
+        "xmax": 1212,
+        "ymax": 768
+      }
+    }
+  ],
+  "469": [
+    {
+      "name": "Fuchs",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 293,
+        "ymin": 325,
+        "xmax": 946,
+        "ymax": 926
+      }
+    }
+  ],
+  "470": [
+    {
+      "name": "GTK Boxer",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 697,
+        "ymin": 448,
+        "xmax": 1041,
+        "ymax": 769
+      }
+    }
+  ],
+  "471": [
+    {
+      "name": "GTK Boxer",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 22,
+        "ymin": 123,
+        "xmax": 1072,
+        "ymax": 1013
+      }
+    }
+  ],
+  "472": [
+    {
+      "name": "GTK Boxer",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 183,
+        "ymin": 301,
+        "xmax": 621,
+        "ymax": 666
+      }
+    }
+  ],
+  "473": [
+    {
+      "name": "GTK Boxer",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 629,
+        "ymin": 208,
+        "xmax": 1373,
+        "ymax": 967
+      }
+    }
+  ],
+  "476": [],
+  "477": [],
+  "478": [],
+  "479": [
+    {
+      "name": "LUH 145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 97,
+        "xmax": 1617,
+        "ymax": 905
+      }
+    }
+  ],
+  "482": [],
+  "484": [],
+  "487": [
+    {
+      "name": "KZO",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 688,
+        "ymin": 259,
+        "xmax": 871,
+        "ymax": 391
+      }
+    }
+  ],
+  "488": [
+    {
+      "name": "KZO",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 686,
+        "ymin": 301,
+        "xmax": 1043,
+        "ymax": 495
+      }
+    }
+  ],
+  "489": [
+    {
+      "name": "KZO",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 520,
+        "ymin": 240,
+        "xmax": 820,
+        "ymax": 474
+      }
+    }
+  ],
+  "490": [
+    {
+      "name": "KZO",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 765,
+        "ymin": 654,
+        "xmax": 864,
+        "ymax": 707
+      }
+    }
+  ],
+  "491": [
+    {
+      "name": "KZO",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 922,
+        "ymin": 187,
+        "xmax": 1156,
+        "ymax": 355
+      }
+    }
+  ],
+  "492": [],
+  "493": [],
+  "494": [],
+  "495": [],
+  "496": [],
+  "497": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 233,
+        "ymin": 140,
+        "xmax": 1505,
+        "ymax": 688
+      }
+    }
+  ],
+  "498": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 95,
+        "ymin": 227,
+        "xmax": 1375,
+        "ymax": 820
+      }
+    }
+  ],
+  "499": [],
+  "500": [],
+  "501": [],
+  "502": [],
+  "503": [
+    {
+      "name": "Explosive Ordnance Disposal",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "504": [
+    {
+      "name": "Leopard 2A7V",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 223,
+        "ymin": 384,
+        "xmax": 1199,
+        "ymax": 884
+      }
+    }
+  ],
+  "505": [
+    {
+      "name": "Leopard 2A7V",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 408,
+        "ymin": 355,
+        "xmax": 1471,
+        "ymax": 865
+      }
+    }
+  ],
+  "506": [
+    {
+      "name": "Leopard 2A7V",
+      "label": "vehicle",
+      "bnd": {
+        "xmin": 129,
+        "ymin": 372,
+        "xmax": 1543,
+        "ymax": 665
+      }
+    }
+  ],
+  "507": [],
+  "508": [
+    {
+      "name": "CH-53",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 102,
+        "xmax": 1619,
+        "ymax": 844
+      }
+    }
+  ],
+  "511": [],
+  "512": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": null
+    }
+  ],
+  "513": [],
+  "514": [
+    {
+      "name": "Naval Special Forces Command (KSM).",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "515": [
+    {
+      "name": "H145M LUH SOF",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 628,
+        "ymin": 160,
+        "xmax": 1199,
+        "ymax": 524
+      }
+    }
+  ],
+  "516": [],
+  "517": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 228,
+        "ymin": 43,
+        "xmax": 1330,
+        "ymax": 544
+      }
+    },
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 829,
+        "ymin": 612,
+        "xmax": 1257,
+        "ymax": 1051
+      }
+    },
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 1389,
+        "ymin": 720,
+        "xmax": 1609,
+        "ymax": 1038
+      }
+    }
+  ],
+  "518": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 2,
+        "ymin": 278,
+        "xmax": 1486,
+        "ymax": 982
+      }
+    }
+  ],
+  "519": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 187,
+        "ymin": 325,
+        "xmax": 1097,
+        "ymax": 812
+      }
+    },
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 594,
+        "ymin": 307,
+        "xmax": 821,
+        "ymax": 391
+      }
+    }
+  ],
+  "521": [],
+  "522": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 315,
+        "ymin": 296,
+        "xmax": 581,
+        "ymax": 469
+      }
+    }
+  ],
+  "523": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 222,
+        "ymin": 293,
+        "xmax": 826,
+        "ymax": 544
+      }
+    }
+  ],
+  "524": [],
+  "525": [],
+  "526": [],
+  "528": [],
+  "529": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 127,
+        "ymin": 494,
+        "xmax": 366,
+        "ymax": 554
+      }
+    },
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 498,
+        "ymin": 468,
+        "xmax": 724,
+        "ymax": 532
+      }
+    },
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 1067,
+        "ymin": 481,
+        "xmax": 1341,
+        "ymax": 550
+      }
+    }
+  ],
+  "530": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 95,
+        "ymin": 405,
+        "xmax": 953,
+        "ymax": 727
+      }
+    }
+  ],
+  "531": [
+    {
+      "name": "G36k",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 403,
+        "xmax": 1617,
+        "ymax": 1048
+      }
+    }
+  ],
+  "532": [],
+  "539": [],
+  "540": [],
+  "542": [],
+  "543": [
+    {
+      "name": "UN",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "544": [
+    {
+      "name": "NATO",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "545": [
+    {
+      "name": "RAM Rolling Airframe Missile",
+      "label": "weapon",
+      "bnd": {
+        "xmin": 939,
+        "ymin": 357,
+        "xmax": 1220,
+        "ymax": 450
+      }
+    }
+  ],
+  "546": [
+    {
+      "name": "NATO",
+      "label": "other",
+      "bnd": null
+    }
+  ],
+  "548": [],
+  "549": [],
+  "550": [
+    {
+      "name": "Germany",
+      "label": "location",
+      "bnd": null
+    }
+  ],
+  "551": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 119,
+        "ymin": 327,
+        "xmax": 1407,
+        "ymax": 907
+      }
+    }
+  ],
+  "552": [],
+  "553": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 223,
+        "ymin": 136,
+        "xmax": 1428,
+        "ymax": 601
+      }
+    }
+  ],
+  "554": [
+    {
+      "name": "Tiger",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 46,
+        "xmax": 1456,
+        "ymax": 941
+      }
+    },
+    {
+      "name": "NH-90",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 631,
+        "ymin": 367,
+        "xmax": 1620,
+        "ymax": 841
+      }
+    }
+  ],
+  "555": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 177,
+        "ymin": 156,
+        "xmax": 1509,
+        "ymax": 745
+      }
+    }
+  ],
+  "556": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 8,
+        "ymin": 0,
+        "xmax": 1619,
+        "ymax": 1077
+      }
+    }
+  ],
+  "557": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 0,
+        "ymin": 333,
+        "xmax": 1605,
+        "ymax": 1022
+      }
+    }
+  ],
+  "558": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 136,
+        "ymin": 55,
+        "xmax": 589,
+        "ymax": 383
+      }
+    }
+  ],
+  "559": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 114,
+        "ymin": 350,
+        "xmax": 1131,
+        "ymax": 670
+      }
+    }
+  ],
+  "560": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 72,
+        "ymin": 210,
+        "xmax": 790,
+        "ymax": 576
+      }
+    }
+  ],
+  "561": [
+    {
+      "name": "H145M",
+      "label": "aircraft",
+      "bnd": {
+        "xmin": 25,
+        "ymin": 282,
+        "xmax": 1403,
+        "ymax": 875
+      }
+    }
+  ],
+  "562": [
+    {
+      "name": "ABC",
+      "label": "other",
+      "bnd": null
+    },
+    {
+      "name": "Combo Pen Training Simulator",
+      "label": "other",
+      "bnd": {
+        "xmin": 903,
+        "ymin": 401,
+        "xmax": 1105,
+        "ymax": 467
+      }
+    }
+  ]
+}

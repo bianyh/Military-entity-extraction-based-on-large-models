@@ -1,0 +1,4442 @@
+{
+    "0": [
+        {
+            "name": "PUMA",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 149,
+                "ymin": 261,
+                "xmax": 1617,
+                "ymax": 1019
+            }
+        },
+        "Soldiers test the overall system demonstrator armoured infantry fighting vehicle PUMA.",
+        "士兵测试整个系统演示装甲步兵战车彪马。"
+    ],
+    "4": [
+        "A soldier wearing a gas mask is detecting and identifying explosives in the chemical plant.",
+        "一名戴着防毒面具的士兵正在化工厂探测和识别爆炸物。"
+    ],
+    "6": [
+        "A soldier is disinfecting the shoes with a brush.",
+        "一名士兵正在用刷子对鞋子进行消毒。"
+    ],
+    "7": [
+        "The soldiers, wearing gas masks, are carrying out disinfection tasks using disinfection tools.",
+        "戴着防毒面具的士兵正在使用消毒工具执行消毒任务。"
+    ],
+    "8": [
+        "Two soldiers, wearing gas masks and carrying backpacks, are discussing the combat mission.",
+        "两名戴着防毒面具和背包的士兵正在讨论战斗任务。"
+    ],
+    "9": [
+        "External landing of a helicopter on a naval vessel with 12 soldiers.",
+        "一架直升机降落在一艘有12名士兵的海军舰艇上。"
+    ],
+    "10": [
+        {
+            "name": "波音E-3",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 281,
+                "ymin": 134,
+                "xmax": 1216,
+                "ymax": 843
+            }
+        },
+        "The Boeing E-3 reconnaissance aircraft is the sentry of the Air Force.",
+        "波音E-3侦察机是空军的哨兵。"
+    ],
+    "11": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 367,
+                "ymin": 573,
+                "xmax": 1195,
+                "ymax": 848
+            }
+        },
+        {
+            "name": "Taktisches Luftwaffengeschwader 51 Immelmann",
+            "label": "other",
+            "bnd": null
+        },
+        "Tornado of Taktisches Luftwaffengeschwader 51 Immelmann starts from airbase in mission.",
+        "Taktisches Luftwaffengeschwader 51 Immelmann的龙卷风从任务中的空军基地开始。"
+    ],
+    "12": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 225,
+                "ymin": 390,
+                "xmax": 1520,
+                "ymax": 725
+            }
+        },
+        {
+            "name": "第51战术空军中队",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "叙利亚",
+            "label": "location",
+            "bnd": null
+        },
+        "Tornado of Tactical Air Force Squadron 51 takes off from airbase for mission in Syria.",
+        "第51战术空军中队的龙卷风从空军基地起飞，前往叙利亚执行任务。"
+    ],
+    "13": [
+        {
+            "name": "空客A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 187,
+                "ymin": 568,
+                "xmax": 1416,
+                "ymax": 873
+            }
+        },
+        "Airbus A400M during loading for a deployment on an airbase with soldiers.",
+        "空中客车A400M在装载期间与士兵一起部署在空军基地。"
+    ],
+    "14": [
+        {
+            "name": "A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 108,
+                "ymin": 274,
+                "xmax": 1447,
+                "ymax": 684
+            }
+        },
+        "The A400M takes off with soldiers on a mission.",
+        "A400M与执行任务的士兵一起起飞。"
+    ],
+    "15": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 676,
+                "ymin": 136,
+                "xmax": 1039,
+                "ymax": 267
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 265,
+                "ymin": 297,
+                "xmax": 608,
+                "ymax": 416
+            }
+        },
+        {
+            "name": "A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 748,
+                "ymin": 697,
+                "xmax": 1513,
+                "ymax": 899
+            }
+        },
+        {
+            "name": "Transall",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 127,
+                "ymin": 452,
+                "xmax": 761,
+                "ymax": 648
+            }
+        },
+        "A Eurofighter in a special livery and another with a different marking fly together with an A400M transport plane and a Transall transport plane in a special retro livery.",
+        "一架采用特殊涂装的欧洲战斗机和另一架采用不同标记的欧洲战斗机，以及一架A400M运输机和一架采用特殊复古涂装的Transall运输机。"
+    ],
+    "16": [
+        {
+            "name": "空中客车10",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 133,
+                "ymin": 323,
+                "xmax": 1371,
+                "ymax": 667
+            }
+        },
+        "The Airbus 10 performs a multi-role transport task, carrying soldiers. ",
+        "空中客车10执行多功能运输任务，运送士兵。"
+    ],
+    "19": [
+        "A military aircraft with special livery lands on a military airbase.",
+        "一架带有特殊制服的军用飞机降落在军事空军基地。"
+    ],
+    "20": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 6,
+                "ymin": 363,
+                "xmax": 1600,
+                "ymax": 939
+            }
+        },
+        {
+            "name": "13. 纳粹德国空军",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "快速反应警报",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "德国南部",
+            "label": "location",
+            "bnd": null
+        },
+        "A Luftwaffe Eurofighter flies as Quick Reaction Alert over southern Germany.",
+        "德国空军的一架欧洲战斗机作为快速反应警报在德国南部上空飞行。"
+    ],
+    "21": [
+        {
+            "name": "快速反应警报",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "德国南部",
+            "label": "location",
+            "bnd": null
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 34,
+                "ymin": 501,
+                "xmax": 1481,
+                "ymax": 960
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 905,
+                "ymin": 112,
+                "xmax": 1445,
+                "ymax": 514
+            }
+        },
+        "Eurofighter trains as Quick Reaction Alert over southern Germany.",
+        "欧洲战斗机列车作为德国南部的快速反应警报。"
+    ],
+    "22": [
+        {
+            "name": "快速反应警报",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "德国南部",
+            "label": "location",
+            "bnd": null
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 36,
+                "ymin": 310,
+                "xmax": 1556,
+                "ymax": 763
+            }
+        },
+        {
+            "name": "Luftwaffengeschwader",
+            "label": "other",
+            "bnd": null
+        },
+        "A Luftwaffengeschwader Eurofighter flies as Quick Reaction Alert over southern Germany.",
+        "德国空军的一架欧洲战斗机作为快速反应警报在德国南部上空飞行。"
+    ],
+    "23": [
+        {
+            "name": "快速反应警报",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "德国东南部",
+            "label": "location",
+            "bnd": null
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 159,
+                "ymin": 263,
+                "xmax": 1418,
+                "ymax": 731
+            }
+        },
+        "Eurofighter jets fly as Quick Reaction Alert over southeastern Germany.",
+        "欧洲战斗机作为快速反应警报飞越德国东南部。"
+    ],
+    "24": [
+        "The European fighter jets conduct the flight mission over the lake.",
+        "欧洲战斗机在湖上空执行飞行任务。"
+    ],
+    "26": [
+        "A cadet from the infantry school is using surveying equipment to carry out a terrain survey mission.",
+        "一名来自步兵学校的学员正在使用勘测设备执行地形勘测任务。"
+    ],
+    "28": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 63,
+                "ymin": 414,
+                "xmax": 1262,
+                "ymax": 782
+            }
+        },
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1001,
+                "ymin": 514,
+                "xmax": 1509,
+                "ymax": 699
+            }
+        },
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "The first multi-purpose helicopters of type NH-90 start in the framework of a UN mission.",
+        "第一架NH-90型多用途直升机在联合国任务框架内起飞。"
+    ],
+    "29": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 299,
+                "ymin": 76,
+                "xmax": 1551,
+                "ymax": 939
+            }
+        },
+        {
+            "name": "ANTONOW AN-124",
+            "label": "aircraft",
+            "bnd": null
+        },
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "Arrival of NH-90 helicopters, transported in an Antonow AN-124 cargo plane, as part of a UN mission.",
+        "作为联合国任务的一部分，由安东诺AN-124货机运送的NH-90直升机抵达。"
+    ],
+    "30": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 174,
+                "ymin": 48,
+                "xmax": 1620,
+                "ymax": 796
+            }
+        },
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "Soldiers install a rotor blade from the multi-purpose helicopter NH-90 as part of the UN mission.",
+        "作为联合国任务的一部分，士兵们从多用途直升机NH-90上安装了一个转子叶片。"
+    ],
+    "31": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 55,
+                "xmax": 1619,
+                "ymax": 873
+            }
+        },
+        {
+            "name": "联合国特派团",
+            "label": "other",
+            "bnd": null
+        },
+        "Soldiers prepare for the start of the first multi-role helicopters of the type NH-90 in the framework of the UN-Mission.",
+        "士兵们准备在联合国特派团的框架内启动第一架NH-90型多用途直升机。"
+    ],
+    "32": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        {
+            "name": "ANTONOW AN-124",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 769,
+                "ymin": 197,
+                "xmax": 1596,
+                "ymax": 503
+            }
+        },
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "Arrival of NH-90 helicopters transported in an Antonow AN-124 cargo plane as part of a UN mission.",
+        "作为联合国任务的一部分，用安东诺AN-124货机运送的NH-90直升机抵达。"
+    ],
+    "33": [
+        {
+            "name": "ANTONOW AN-124",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 676,
+                "ymin": 97,
+                "xmax": 1620,
+                "ymax": 707
+            }
+        },
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 327,
+                "ymin": 471,
+                "xmax": 984,
+                "ymax": 676
+            }
+        },
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "Arrival of NH-90 helicopters, transported in an Antonow AN-124 cargo aircraft, as part of a UN mission.",
+        "作为联合国任务的一部分，用安东诺AN-124货机运送的NH-90直升机抵达。"
+    ],
+    "34": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 212,
+                "ymin": 384,
+                "xmax": 1543,
+                "ymax": 737
+            }
+        },
+        "The first multi-purpose helicopters of the NH-90 type arrived and two soldiers were saluting it.",
+        "第一架NH-90型多用途直升机抵达，两名士兵向其致敬。"
+    ],
+    "35": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "The transport plane, loaded with two support helicopters Tiger, is on the runway at the edge of the field camp.",
+        "这架载有两架支援直升机Tiger的运输机位于野战营地边缘的跑道上。"
+    ],
+    "36": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 148,
+                "ymin": 0,
+                "xmax": 1420,
+                "ymax": 1073
+            }
+        },
+        "A Eurofighter takes off from an air force base.",
+        "一架欧洲战斗机从空军基地起飞。"
+    ],
+    "37": [
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 4,
+                "xmax": 1583,
+                "ymax": 975
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 310,
+                "ymin": 531,
+                "xmax": 1441,
+                "ymax": 952
+            }
+        },
+        "Eurofighters start from an air force base in a Nordic country.",
+        "欧洲战斗机从北欧国家的空军基地开始。"
+    ],
+    "38": [
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 780,
+                "ymin": 342,
+                "xmax": 1579,
+                "ymax": 618
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 561,
+                "ymin": 463,
+                "xmax": 1169,
+                "ymax": 654
+            }
+        },
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 72,
+                "ymin": 576,
+                "xmax": 637,
+                "ymax": 714
+            }
+        },
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 269,
+                "ymin": 533,
+                "xmax": 880,
+                "ymax": 676
+            }
+        },
+        "Two F-18 Hornet fighter jets fly in formation with two Eurofighters in the airspace during a multinational exercise.",
+        "在多国演习期间，两架F-18大黄蜂战斗机与两架欧洲战斗机在空域编队飞行。"
+    ],
+    "39": [
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 735,
+                "ymin": 514,
+                "xmax": 1150,
+                "ymax": 673
+            }
+        },
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1090,
+                "ymin": 608,
+                "xmax": 1560,
+                "ymax": 773
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 40,
+                "ymin": 272,
+                "xmax": 376,
+                "ymax": 395
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 348,
+                "ymin": 378,
+                "xmax": 703,
+                "ymax": 516
+            }
+        },
+        "Two F-18 Hornet fighter jets fly in formation with two Eurofighters in the airspace.",
+        "两架F-18大黄蜂战斗机与两架欧洲战斗机在空域中编队飞行。"
+    ],
+    "40": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 323,
+                "ymin": 142,
+                "xmax": 1092,
+                "ymax": 846
+            }
+        },
+        "A Eurofighter is approaching for landing on an air force base.",
+        "一架欧洲战斗机即将降落在空军基地。"
+    ],
+    "41": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": -1,
+                "ymin": 155,
+                "xmax": 1262,
+                "ymax": 907
+            }
+        },
+        "A technician inspects a Eurofighter after landing at an air force base.",
+        "一名技术人员在空军基地降落后检查一架欧洲战斗机。"
+    ],
+    "42": [
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 72,
+                "ymin": 42,
+                "xmax": 625,
+                "ymax": 216
+            }
+        },
+        {
+            "name": "F－18 Hornet",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 191,
+                "ymin": 240,
+                "xmax": 829,
+                "ymax": 416
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 474,
+                "ymin": 435,
+                "xmax": 1120,
+                "ymax": 686
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 665,
+                "ymin": 756,
+                "xmax": 1458,
+                "ymax": 1056
+            }
+        },
+        "Two F-18 Hornet fighter jets fly in formation with two Eurofighters in the airspace.",
+        "两架F-18大黄蜂战斗机与两架欧洲战斗机在空域中编队飞行。"
+    ],
+    "43": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 138,
+                "xmax": 1620,
+                "ymax": 990
+            }
+        },
+        {
+            "name": "HEA头盔",
+            "label": "other",
+            "bnd": {
+                "xmin": 690,
+                "ymin": 221,
+                "xmax": 982,
+                "ymax": 531
+            }
+        },
+        {
+            "name": "抬头显示器",
+            "label": "other",
+            "bnd": null
+        },
+        "A pilot with an HEA helmet and Head-Up-Display takes off in a Eurofighter from an air force base as part of a multinational exercise.",
+        "作为多国演习的一部分，一名戴着HEA头盔和抬头显示器的飞行员乘坐欧洲战斗机从空军基地起飞。"
+    ],
+    "44": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 36,
+                "ymin": 666,
+                "xmax": 697,
+                "ymax": 964
+            }
+        },
+        "A Eurofighter takes off from a air force base.",
+        "一架欧洲战斗机从空军基地起飞。"
+    ],
+    "45": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 778,
+                "ymin": 612,
+                "xmax": 1532,
+                "ymax": 831
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 391,
+                "ymin": 680,
+                "xmax": 895,
+                "ymax": 831
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 214,
+                "ymin": 729,
+                "xmax": 559,
+                "ymax": 844
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 131,
+                "ymin": 750,
+                "xmax": 331,
+                "ymax": 833
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 48,
+                "ymin": 767,
+                "xmax": 178,
+                "ymax": 833
+            }
+        },
+        "Eurofighter jets park on an air force base.",
+        "欧洲战斗机停在空军基地。"
+    ],
+    "46": [
+        "A European fighter jet is taking off from the air force base, getting ready to carry out combat missions.",
+        "一架欧洲战斗机正从空军基地起飞，准备执行战斗任务。"
+    ],
+    "47": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 93,
+                "ymin": 189,
+                "xmax": 1513,
+                "ymax": 1024
+            }
+        },
+        "Soldiers test the MARS II rocket launcher on a military test site.",
+        "士兵们在军事试验场测试火星II火箭发射器。"
+    ],
+    "48": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 408,
+                "ymin": 128,
+                "xmax": 1474,
+                "ymax": 748
+            }
+        },
+        "A soldier loads a MARS II rocket launcher.",
+        "一名士兵装载了火星II火箭发射器。"
+    ],
+    "49": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 311,
+                "ymin": 652,
+                "xmax": 667,
+                "ymax": 822
+            }
+        },
+        "The MARS II rocket launcher is tested on a military test site and successfully launches a rocket.",
+        "火星II火箭发射器在军事试验场进行了测试，并成功发射了一枚火箭。"
+    ],
+    "50": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 364,
+                "ymin": 17,
+                "xmax": 1459,
+                "ymax": 1040
+            }
+        },
+        "The MARS II rocket launcher is tested on a military test site.",
+        "火星II火箭发射器在军事试验场进行测试。"
+    ],
+    "51": [
+        "The reconnaissance system is ready for the next flight.",
+        "侦察系统已准备好进行下一次飞行。"
+    ],
+    "52": [
+        {
+            "name": "Heron 1",
+            "label": "other",
+            "bnd": {
+                "xmin": 236,
+                "ymin": 106,
+                "xmax": 612,
+                "ymax": 675
+            }
+        },
+        "The combat troops carry out their tasks using reconnaissance system Heron 1.",
+        "战斗部队使用侦察系统苍鹭1执行任务。"
+    ],
+    "53": [
+        "The soldiers, holding machine guns, moved forward with the help of cover in a building.",
+        "士兵们拿着机关枪，在建筑物的掩护下前进。"
+    ],
+    "54": [
+        "A group of soldiers armed with guns quickly enters a building.",
+        "一群携带枪支的士兵迅速进入建筑物。"
+    ],
+    "55": [
+        "The soldiers, holding rifles, were ready to clean the upper floor of the building.",
+        "士兵们拿着步枪，准备打扫大楼的上层。"
+    ],
+    "56": [
+        "A troop of armoured grenadiers takes rooms one after another.",
+        "一群装甲掷弹兵一个接一个地占领房间。"
+    ],
+    "57": [
+        "A grenadier secures the position from cover.",
+        "掷弹兵从掩体上固定位置。"
+    ],
+    "58": [
+        "The instructor briefs the soldiers on the situation at a map display.",
+        "教官在地图显示屏上向士兵简要介绍情况。"
+    ],
+    "59": [
+        "A soldier jumps over an open area under the protection of comrades.",
+        "一名士兵在战友的保护下跳过一片空地。"
+    ],
+    "60": [
+        {
+            "name": "Sch 眉tzenpanzer Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 571,
+                "ymin": 184,
+                "xmax": 1585,
+                "ymax": 684
+            }
+        },
+        "Soldiers operate the Sch眉tzenpanzer Puma on a military area.",
+        "士兵在军眉区操作Sch tzenpanzer Puma。"
+    ],
+    "61": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 510,
+                "ymin": 559,
+                "xmax": 756,
+                "ymax": 739
+            }
+        },
+        "Military cadets are conducting shooting missions using the Puma armored vehicle at the school's shooting range.",
+        "军校学员正在学校的射击场使用彪马装甲车执行射击任务。"
+    ],
+    "62": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 195,
+                "ymin": 318,
+                "xmax": 1024,
+                "ymax": 676
+            }
+        },
+        "Soldiers are shooting with the Puma armored infantry fighting vehicle on a firing range.",
+        "士兵们正在射击场上用彪马装甲步兵战车射击。"
+    ],
+    "63": [
+        "Two scouts, armed with rifles, secure the surroundings at the Technology Support Point and wear camouflage gear to deceive and disguise themselves.",
+        "两名侦察兵手持步枪，确保技术支援点周围环境的安全，并穿着伪装装备来欺骗和伪装自己。"
+    ],
+    "64": [
+        "A prospective long-range scout starts building an observation hideout in a technology support point for camouflage and deception.",
+        "一名未来的远程侦察兵开始在伪装和欺骗的技术支持点建立一个观察藏身处。"
+    ],
+    "68": [
+        "A prospective long-range scout holds a telescope in an observation hideout at a technology support point.",
+        "一名未来的远程侦察员在技术支持点的观测藏身处拿着望远镜。"
+    ],
+    "70": [
+        "Two scouts armed with rifles are carrying out reconnaissance duties in the military area.",
+        "两名携带步枪的侦察兵正在军区执行侦察任务。"
+    ],
+    "76": [
+        {
+            "name": "CH-53",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 163,
+                "ymin": 122,
+                "xmax": 1660,
+                "ymax": 720
+            }
+        },
+        "A soldier secures an external load on a CH-53 helicopter.",
+        "一名士兵在CH-53直升机上固定外部负载。"
+    ],
+    "77": [
+        {
+            "name": "F-16C/D",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 537,
+                "ymin": 46,
+                "xmax": 878,
+                "ymax": 310
+            }
+        },
+        {
+            "name": "F-16C/D",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 584,
+                "ymin": 795,
+                "xmax": 916,
+                "ymax": 1037
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 218,
+                "ymin": 374,
+                "xmax": 612,
+                "ymax": 676
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1007,
+                "ymin": 412,
+                "xmax": 1330,
+                "ymax": 680
+            }
+        },
+        "F-16C/D fighter jets and Eurofighter jets fly in formation.",
+        "F-16C/D战斗机和欧洲战斗机编队飞行。"
+    ],
+    "78": [
+        {
+            "name": "F-16C/D “巴拉克”",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 48,
+                "ymin": 280,
+                "xmax": 1526,
+                "ymax": 918
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 631,
+                "ymin": 153,
+                "xmax": 1479,
+                "ymax": 533
+            }
+        },
+        "A fighter jet of type F-16C/D \"Barak\" and a Eurofighter fly in formation.",
+        "一架F-16C/D “巴拉克”型战斗机和一架欧洲战斗机编队飞行。"
+    ],
+    "79": [
+        {
+            "name": "湾流G-550",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 146,
+                "ymin": 399,
+                "xmax": 767,
+                "ymax": 567
+            }
+        },
+        " Fighter jets fly together with a Gulfstream G-550 during a historic flight near a memorial site.",
+        "战斗机与湾流G-550一起在纪念遗址附近进行历史性飞行。"
+    ],
+    "83": [
+        "The supply tanker has left its home port.",
+        "补给油轮已离开其母港。"
+    ],
+    "84": [
+        "Soldiers move through terrain in a staggered rifle line.",
+        "士兵们用交错的步枪线穿过地形。"
+    ],
+    "85": [
+        "The recruits used rifles for shooting training in the jungle.",
+        "新兵使用步枪在丛林中进行射击训练。"
+    ],
+    "86": [
+        "A recruit wearing a helmet is crawling forward while holding a rifle in his hand.",
+        "一名戴着头盔的新兵手里拿着步枪向前爬行。"
+    ],
+    "87": [
+        "A recruit is drinking water from a canteen during a break in training.",
+        "一名新兵在训练中休息时从食堂喝水。"
+    ],
+    "90": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 55,
+                "ymin": 259,
+                "xmax": 1420,
+                "ymax": 716
+            }
+        },
+        "A Eurofighter takes off at an air force base.",
+        "一架欧洲战斗机在空军基地起飞。"
+    ],
+    "92": [
+        "A European fighter jet is taking off in a gliding manner from the airfield.",
+        "一架欧洲战斗机正以滑翔的方式从机场起飞。"
+    ],
+    "93": [
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 104,
+                "ymin": 507,
+                "xmax": 540,
+                "ymax": 716
+            }
+        },
+        {
+            "name": "Eurofighters",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 557,
+                "ymin": 490,
+                "xmax": 1538,
+                "ymax": 972
+            }
+        },
+        "Two Eurofighters leave the shelter on their way to the runway.",
+        "两架欧洲战斗机在前往跑道的途中离开了避难所。"
+    ],
+    "94": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 310,
+                "ymin": 299,
+                "xmax": 1579,
+                "ymax": 814
+            }
+        },
+        "A Eurofighter landed at an air force base after completing its first flight mission.",
+        "一架欧洲战斗机在完成首次飞行任务后降落在空军基地。"
+    ],
+    "95": [
+        "A European fighter jet landed at the air force base after completing its maiden flight mission.",
+        "一架欧洲战斗机在完成首飞任务后降落在空军基地。"
+    ],
+    "96": [
+        "A jet takes off from the air force base.",
+        "一架喷气式飞机从空军基地起飞。"
+    ],
+    "97": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 4,
+                "ymin": 136,
+                "xmax": 1619,
+                "ymax": 923
+            }
+        },
+        "Technicians bid farewell to the Eurofighter before takeoff.",
+        "技术人员在起飞前告别了欧洲战斗机。"
+    ],
+    "98": [
+        {
+            "name": "欧洲战斗机Eagle Star",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 954,
+                "ymin": 389,
+                "xmax": 1543,
+                "ymax": 571
+            }
+        },
+        "A fighter jet and a specially painted Eurofighter Eagle Star fly together in the airspace over the sea.",
+        "一架战斗机和一架特制的欧洲战斗机“鹰之星”一起在海上空域飞行。"
+    ],
+    "99": [
+        {
+            "name": "F-15",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 225,
+                "ymin": 116,
+                "xmax": 997,
+                "ymax": 384
+            }
+        },
+        {
+            "name": "欧洲战斗机Eagle Star",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 374,
+                "ymin": 153,
+                "xmax": 1216,
+                "ymax": 567
+            }
+        },
+        {
+            "name": "F 35",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 8,
+                "ymin": 282,
+                "xmax": 1537,
+                "ymax": 1021
+            }
+        },
+        "A multi-role stealth fighter F-35 and an F-15 fighter jet fly together with a specially painted Eurofighter Eagle Star in formation.",
+        "一架多用途隐形战斗机F-35和一架F-15战斗机与一架特制的欧洲战斗机“鹰之星”编队一起飞行。"
+    ],
+    "100": [
+        {
+            "name": "欧洲战斗机Eagle Star",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 182,
+                "ymin": 172,
+                "xmax": 477,
+                "ymax": 307
+            }
+        },
+        {
+            "name": "欧洲战斗机Eagle Star",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 81,
+                "ymin": 808,
+                "xmax": 688,
+                "ymax": 1025
+            }
+        },
+        "The specially marked Eurofighter Eagle Star lands on an airbase during a maneuver.",
+        "特别标记的欧洲战斗机Eagle Star在机动过程中降落在空军基地。"
+    ],
+    "101": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 713,
+                "ymin": 271,
+                "xmax": 1478,
+                "ymax": 560
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 978,
+                "ymin": 247,
+                "xmax": 1558,
+                "ymax": 450
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 64,
+                "ymin": 301,
+                "xmax": 1400,
+                "ymax": 855
+            }
+        },
+        "Eurofighter combat aircraft fly in formation over an air base.",
+        "欧洲战斗机战斗机编队飞越空军基地。"
+    ],
+    "102": [
+        "Two engineers inspect the fighter jet about to carry out its mission.",
+        "两名工程师检查即将执行任务的战斗机。"
+    ],
+    "103": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 123,
+                "ymin": 231,
+                "xmax": 850,
+                "ymax": 498
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 58,
+                "ymin": 396,
+                "xmax": 1126,
+                "ymax": 788
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 686,
+                "ymin": 239,
+                "xmax": 1147,
+                "ymax": 448
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1070,
+                "ymin": 234,
+                "xmax": 1600,
+                "ymax": 482
+            }
+        },
+        {
+            "name": "第31战术空军中队",
+            "label": "other",
+            "bnd": null
+        },
+        "Eurofighter from Tactical Air Force Squadron 31 roll out for takeoff.",
+        "来自第31战术空军中队的欧洲战斗机开始起飞。"
+    ],
+    "104": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 334,
+                "ymin": 367,
+                "xmax": 1581,
+                "ymax": 803
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 10,
+                "ymin": 536,
+                "xmax": 498,
+                "ymax": 795
+            }
+        },
+        "The pilot was operating the Eurofighter to roll towards shelter on air base after landing.",
+        "飞行员正在操作欧洲战斗机，在着陆后朝着空军基地的掩体前进。"
+    ],
+    "105": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 455,
+                "ymin": 280,
+                "xmax": 1451,
+                "ymax": 585
+            }
+        },
+        "A Eurofighter combat aircraft releases decoy flares during a maneuver in the airspace.",
+        "一架欧洲战斗机战斗机在空域进行机动时释放诱饵耀斑。"
+    ],
+    "107": [
+        "An artilleryman carrying a gun is sitting beside the artillery carriage resting.",
+        "一名携带枪支的炮兵坐在炮车旁休息。"
+    ],
+    "109": [
+        "A soldier is clearing the snow with a shovel.",
+        "一名士兵正在用铲子扫雪。"
+    ],
+    "110": [
+        "A soldier wearing a hat is carrying out the task of clearing the snow.",
+        "一名戴帽子的士兵正在执行清理积雪的任务。"
+    ],
+    "111": [
+        "Soldiers have begun breaking up a road with armored vehicles to divert water into polder areas along a river.",
+        "士兵们已经开始用装甲车捣毁一条道路，将水分流到河流沿岸的浅滩地区。"
+    ],
+    "116": [
+        {
+            "name": "Dachs",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 375,
+                "ymin": 51,
+                "xmax": 1224,
+                "ymax": 894
+            }
+        },
+        {
+            "name": "哈弗爾河",
+            "label": "location",
+            "bnd": null
+        },
+        "Soldiers have begun breaking up a road with armored vehicles of the Dachs type to divert water into polder areas along the Havel.",
+        "士兵们已经开始用Dachs类型的装甲车破坏道路，将水分流到哈维尔河沿岸的浅滩地区。"
+    ],
+    "118": [
+        "A helicopter flies over a river.",
+        "一架直升机飞越河流。"
+    ],
+    "119": [
+        {
+            "name": "美洲狮AS532",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 174,
+                "ymin": 58,
+                "xmax": 1342,
+                "ymax": 584
+            }
+        },
+        "A Cougar AS532 helicopter stands in morning light on a military airfield.",
+        "一架美洲狮AS532直升机站在军用机场的晨光中。"
+    ],
+    "120": [
+        "Soldiers operate the unprotected transport vehicle (UTF).",
+        "士兵操作无保护的运输车辆（ UTF ）。"
+    ],
+    "121": [
+        {
+            "name": "俄里翁",
+            "label": "other",
+            "bnd": {
+                "xmin": 294,
+                "ymin": 96,
+                "xmax": 1006,
+                "ymax": 887
+            }
+        },
+        "Soldiers lift a container onto an unprotected transport vehicle (UTF) using the Orion container stacker on a military ground.",
+        "士兵在军用场地上使用猎户座集装箱堆垛机将集装箱提升到无保护的运输车辆（ UTF ）上。"
+    ],
+    "122": [
+        "The driver operates the unprotected transport vehicle (UTF) to carry out the task.",
+        "驾驶员操作未受保护的运输车辆（ UTF ）来执行任务。"
+    ],
+    "123": [
+        {
+            "name": "俄里翁",
+            "label": "other",
+            "bnd": {
+                "xmin": 258,
+                "ymin": 0,
+                "xmax": 1019,
+                "ymax": 969
+            }
+        },
+        "Soldiers transport a container using an Orion container stacker.",
+        "士兵使用猎户座集装箱堆垛机运输集装箱。"
+    ],
+    "124": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 6,
+                "ymin": 4,
+                "xmax": 1607,
+                "ymax": 811
+            }
+        },
+        "The first mechanic checks the operational capability of the combat jet of type Eurofighter.",
+        "第一名机械师检查欧洲战斗机型战斗机的作战能力。"
+    ],
+    "125": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 6,
+                "ymin": 3,
+                "xmax": 1634,
+                "ymax": 771
+            }
+        },
+        "A technician inspects the intake duct for damage on a Eurofighter 30+84 combat jet after flight.",
+        "一名技术人员在飞行后检查欧洲战斗机30 +84战斗机的进气管道是否有损坏。"
+    ],
+    "126": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 6,
+                "ymin": 3,
+                "xmax": 1607,
+                "ymax": 856
+            }
+        },
+        "The first technician repairs the wheels of the combat jet of type Eurofighter.",
+        "第一名技术人员修理欧洲战斗机型战斗机的车轮。"
+    ],
+    "127": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 981,
+                "ymin": 333,
+                "xmax": 1598,
+                "ymax": 507
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 602,
+                "ymin": 343,
+                "xmax": 1308,
+                "ymax": 536
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 11,
+                "ymin": 397,
+                "xmax": 1466,
+                "ymax": 1035
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 168,
+                "ymin": 368,
+                "xmax": 817,
+                "ymax": 543
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 77,
+                "ymin": 356,
+                "xmax": 721,
+                "ymax": 627
+            }
+        },
+        "Fighter jets of the Eurofighter type are standing in a hall for pre- and post-flight control.",
+        "欧洲战斗机类型的战斗机站在大厅中进行飞行前和飞行后控制。"
+    ],
+    "128": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 11,
+                "ymin": 509,
+                "xmax": 1614,
+                "ymax": 1076
+            }
+        },
+        "The second technician cleans the cockpit glass of the Eurofighter combat jet after a flight.",
+        "第二名技术人员在飞行后清洁Eurofighter战斗机的驾驶舱玻璃。"
+    ],
+    "129": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 8,
+                "ymin": 5,
+                "xmax": 720,
+                "ymax": 413
+            }
+        },
+        "The first mechanic checks the combat readiness of a Eurofighter jet before a flight.",
+        "第一名技工在飞行前检查一架欧洲战斗机的战备状态。"
+    ],
+    "130": [
+        "Two soldiers on the tender observe the approach of the mine hunter boat.",
+        "船上的两名士兵观察着水雷猎人船的接近。"
+    ],
+    "131": [
+        "A Hauptfeldwebel operates the control equipment to coordinate all air and ground movements.",
+        "Hauptfeldwebel负责操作控制设备，以协调所有空中和地面移动。"
+    ],
+    "132": [
+        {
+            "name": "空客A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 94,
+                "ymin": 202,
+                "xmax": 1594,
+                "ymax": 796
+            }
+        },
+        "The Airbus A400M takes off from the Air Base.",
+        "空中客车A400M从空军基地起飞。"
+    ],
+    "133": [
+        {
+            "name": "空客A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 288,
+                "ymin": 304,
+                "xmax": 1483,
+                "ymax": 611
+            }
+        },
+        "An Airbus A400M takes off from the air force base.",
+        "一架空客A400M从空军基地起飞。"
+    ],
+    "134": [
+        {
+            "name": "空客A400M",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "The pilot prepares for flight with the transport aircraft Airbus A400M.",
+        "飞行员准备使用空中客车A400M运输机进行飞行。"
+    ],
+    "135": [
+        "A soldier jumps with the automatic round parachute system.",
+        "一名士兵使用自动降落伞系统跳跃。"
+    ],
+    "136": [
+        {
+            "name": "Transportflugzeug Transall C-160",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 227,
+                "ymin": 297,
+                "xmax": 1343,
+                "ymax": 917
+            }
+        },
+        "German paratroopers jump with automatic round canopy system from Transportflugzeug Transall C-160.",
+        "德国伞兵使用Transportflugzeug Transall C-160的自动圆形顶篷系统进行跳伞。"
+    ],
+    "137": [
+        {
+            "name": "Transall C-160",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 38,
+                "ymin": 693,
+                "xmax": 250,
+                "ymax": 737
+            }
+        },
+        {
+            "name": "Hercules C-27",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 244,
+                "ymin": 360,
+                "xmax": 656,
+                "ymax": 494
+            }
+        },
+        "The Transall C-160 transport aircraft and a Hercules C-27 transport aircraft take off.",
+        "Transall C-160运输机和Hercules C-27运输机起飞。"
+    ],
+    "138": [
+        "Soldiers guide pilots to the drop zone.",
+        "士兵将飞行员引导到投放区。"
+    ],
+    "139": [
+        "Two frigates take on fuel from the task force supplier during the replenishment at sea maneuver, while another frigate sails in the background.",
+        "在海上机动补给期间，两艘护卫舰从特遣部队供应商那里获取燃料，而另一艘护卫舰则在后台航行。"
+    ],
+    "143": [
+        "Soldiers cross water obstacles.",
+        "士兵穿越水路障碍物。"
+    ],
+    "146": [
+        "A soldier is descending down a tower 30 meters high with ropes.",
+        "一名士兵正用绳子从30米高的塔上下来。"
+    ],
+    "148": [
+        "A soldier overcomes a simple rope bridge.",
+        "一名士兵克服了一座简单的绳桥。"
+    ],
+    "149": [
+        "A tornado strikes a tent at night, where a transport aircraft is taking shelter.",
+        "晚上，一场龙卷风袭击了一个帐篷，一架运输机正在那里避难。"
+    ],
+    "151": [
+        {
+            "name": "Daesh",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 12,
+                "ymin": 199,
+                "xmax": 1156,
+                "ymax": 678
+            }
+        },
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1045,
+                "ymin": 376,
+                "xmax": 1551,
+                "ymax": 654
+            }
+        },
+        "Combat aircraft of type Tornado on the way to the runway as part of a mission against Daesh on an air base.",
+        "在前往跑道途中的龙卷风类型的战斗机，作为在空军基地对抗Daesh的任务的一部分。"
+    ],
+    "152": [
+        "Crew members pull in ship's towlines during a mission.",
+        "在任务期间，船员拉动船只的拖曳线。"
+    ],
+    "153": [
+        {
+            "name": "阵风M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 197,
+                "ymin": 431,
+                "xmax": 437,
+                "ymax": 593
+            }
+        },
+        {
+            "name": "阵风M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 701,
+                "ymin": 459,
+                "xmax": 946,
+                "ymax": 639
+            }
+        },
+        {
+            "name": "阵风M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1154,
+                "ymin": 514,
+                "xmax": 1396,
+                "ymax": 697
+            }
+        },
+        {
+            "name": "Daesh",
+            "label": "other",
+            "bnd": null
+        },
+        "Multifunctional fighter jets of type Rafale M are flying as part of a mission against Daesh.",
+        "阵风M型多功能战斗机正在飞行，作为对抗伊斯兰国的任务的一部分。"
+    ],
+    "154": [
+        "A frigate is sailing in the framework of a mission.",
+        "一艘护卫舰在任务框架内航行。"
+    ],
+    "156": [
+        "A helicopter takes a person on board from a frigate.",
+        "一架直升机从护卫舰上载人。"
+    ],
+    "157": [
+        {
+            "name": "Sea Lynx MK88A",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 61,
+                "ymin": 157,
+                "xmax": 1551,
+                "ymax": 620
+            }
+        },
+        "The Sea Lynx MK88A helicopter is on the flight deck of a frigate with 12 soldiers nearby in the framework of a mission.",
+        "Sea Lynx MK88A直升机在任务框架内，位于一艘护卫舰的飞行甲板上，附近有12名士兵。"
+    ],
+    "159": [
+        "A frigate is sailing at sea to carry out the mission.",
+        "一艘护卫舰正在海上航行以执行任务。"
+    ],
+    "160": [
+        {
+            "name": "Daesh",
+            "label": "other",
+            "bnd": null
+        },
+        "The crew of the naval aviation waits for the multi-role fighter jet on the aircraft carrier in the framework of the mission against Daesh.",
+        "在打击达伊沙的任务框架内，海军航空兵机组人员在航母上等待多用途战斗机。"
+    ],
+    "161": [
+        {
+            "name": "毗邻：地中海",
+            "label": "location",
+            "bnd": null
+        },
+        "The aircraft carrier is operating in a fleet as part of a mission in the Mediterranean Sea.",
+        "作为地中海任务的一部分，这艘航空母舰正在一支舰队中作战。"
+    ],
+    "164": [
+        "The armed personnel, holding shields, are carrying out a riot control mission.",
+        "持盾牌的武装人员正在执行防暴任务。"
+    ],
+    "172": [
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "A multi-purpose helicopter flies in the vicinity as part of a UN mission.",
+        "作为联合国任务的一部分，一架多用途直升机在附近飞行。"
+    ],
+    "173": [
+        "A multipurpose helicopter flies around the area, carrying out the combat mission.",
+        "一架多用途直升机在该地区周围飞行，执行战斗任务。"
+    ],
+    "177": [
+        "Soldiers walk through a camp.",
+        "士兵穿过一个营地。"
+    ],
+    "178": [
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "A scout carrying a gun patrola the surroundings as part of a UN mission.",
+        "作为联合国任务的一部分，一名携带枪支巡逻的侦察员在周围巡逻。"
+    ],
+    "179": [
+        "The pilots are piloting multi-purpose helicopters to carry out flight missions.",
+        "飞行员正在驾驶多用途直升机执行飞行任务。"
+    ],
+    "184": [
+        "The soldier completes a supply march with a mule.",
+        "士兵带着骡子完成补给行军。"
+    ],
+    "185": [
+        {
+            "name": "Einsatzgruppenversorger",
+            "label": "vessel",
+            "bnd": {
+                "xmin": 177,
+                "ymin": 236,
+                "xmax": 574,
+                "ymax": 908
+            }
+        },
+        "The fleet service ship of the Einsatzgruppenversorger on sea.",
+        "别动队预言家号（ Einsatzgruppenversorger ）在海上的舰队服务船。"
+    ],
+    "187": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 182,
+                "ymin": 80,
+                "xmax": 1488,
+                "ymax": 937
+            }
+        },
+        "Soldiers operate with the Puma infantry fighting vehicle.",
+        "士兵使用彪马步兵战车进行作战。"
+    ],
+    "188": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 238,
+                "ymin": 280,
+                "xmax": 741,
+                "ymax": 722
+            }
+        },
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 486,
+                "ymin": 116,
+                "xmax": 1439,
+                "ymax": 824
+            }
+        },
+        "Soldiers operate the Puma infantry fighting vehicle.",
+        "士兵操作彪马步兵战车。"
+    ],
+    "189": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 350,
+                "ymin": 17,
+                "xmax": 1260,
+                "ymax": 820
+            }
+        },
+        "The combat team operates a Puma infantry fighting vehicle.",
+        "战斗队使用彪马步兵战车。"
+    ],
+    "190": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": null
+        },
+        "The commander of the infantry fighting vehicle Puma provides a situational briefing.",
+        "步兵战车PUMA的指挥官提供情境简报。"
+    ],
+    "191": [
+        {
+            "name": "美洲豹",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 265,
+                "ymin": 89,
+                "xmax": 1585,
+                "ymax": 737
+            }
+        },
+        "Soldiers are operating Jaguar infantry fighting vehicles as part of a combat mission.",
+        "士兵正在操作捷豹步兵战车，作为战斗任务的一部分。"
+    ],
+    "192": [
+        "Soldiers climb an icy waterfall with ice picks. ",
+        "士兵们用冰镐爬上冰冷的瀑布。"
+    ],
+    "193": [
+        "A soldier completes ice climbing at a frozen waterfall.",
+        "一名士兵在冰冻的瀑布上完成攀冰。"
+    ],
+    "194": [
+        "A soldier completes ice climbing on a frozen waterfall with an ice axe and ropes.",
+        "一名士兵用冰斧和绳索在冰冻的瀑布上完成攀冰。"
+    ],
+    "195": [
+        "A warrior wearing a helmet is carrying out a climbing mission on a glacier in winter.",
+        "一名戴着头盔的战士正在冬季的冰川上执行攀登任务。"
+    ],
+    "196": [
+        "A soldier wearing hiking boots completes ice climbing at a frozen waterfall.",
+        "一名穿着登山靴的士兵在冰冻的瀑布上完成攀冰。"
+    ],
+    "197": [
+        {
+            "name": "空客A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 2,
+                "xmax": 1619,
+                "ymax": 946
+            }
+        },
+        "Forces land with the Airbus A400M transport plane on the airbase.",
+        "部队使用空中客车A400M运输机降落在空军基地。"
+    ],
+    "209": [
+        "Forces set up tents as part of earthquake relief efforts.",
+        "作为地震救援工作的一部分，部队搭建了帐篷。"
+    ],
+    "211": [
+        "Pilots test the deployment of guided bombs on a military training ground.",
+        "飞行员在军事训练场测试制导炸弹的部署。"
+    ],
+    "212": [
+        "The pilot is testing the use of guided bombs at the training ground.",
+        "飞行员正在训练场测试制导炸弹的使用。"
+    ],
+    "213": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 156,
+                "ymin": 133,
+                "xmax": 1736,
+                "ymax": 989
+            }
+        },
+        "Pilots test the use of guided bombs with a Eurofighter fighter jet on a military training ground.",
+        "飞行员在军事训练场上用欧洲战斗机战斗机测试制导炸弹的使用。"
+    ],
+    "214": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A pilot prepares for a flight with a Eurofighter combat aircraft on a military training ground.",
+        "一名飞行员准备在军事训练场上乘坐欧洲战斗机进行飞行。"
+    ],
+    "215": [
+        "A frigate, the lead ship of its class, is conducting a trial at sea.",
+        "同级主力舰护卫舰正在海上进行试航。"
+    ],
+    "216": [
+        "Encounter of Fregatte with two other Fregatten in a certain sea area.",
+        "Fregatte与另外两个Fregatten在某个海域相遇。"
+    ],
+    "217": [
+        "Trial run of a frigate, followed by another in the waters.",
+        "一艘护卫舰的试航，然后是另一艘在水中的试航。"
+    ],
+    "218": [
+        "A frigate's trial voyage in a body of water.",
+        "一艘护卫舰在水体中的试航。"
+    ],
+    "219": [
+        "Soldiers are checking the papers of delivered vehicles as part of a certification project.",
+        "作为认证项目的一部分，士兵正在检查交付车辆的文件。"
+    ],
+    "220": [
+        "Soldiers inspect delivered vehicles.",
+        "士兵检查交付的车辆。"
+    ],
+    "221": [
+        "Soldiers are checking the documents for the delivery vehicles.",
+        "士兵们正在检查运载工具的文件。"
+    ],
+    "222": [
+        "Escort drivers on a handling course with a motorcycle.",
+        "使用摩托车护送驾驶员上处理课程。"
+    ],
+    "223": [
+        "A European fighter jet is preparing to take off from the ground.",
+        "一架欧洲战斗机正准备从地面起飞。"
+    ],
+    "224": [
+        {
+            "name": "F-15",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 102,
+                "ymin": 476,
+                "xmax": 741,
+                "ymax": 663
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 918,
+                "ymin": 486,
+                "xmax": 1441,
+                "ymax": 659
+            }
+        },
+        "Eurofighter in a formation with F-15.",
+        "与F-15编队的欧洲战斗机。"
+    ],
+    "225": [
+        {
+            "name": "第74战术空军中队",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 78,
+                "ymin": 329,
+                "xmax": 1564,
+                "ymax": 737
+            }
+        },
+        "Air-to-air photo of Eurofighter in special livery from Tactical Air Force Squadron 74.",
+        "来自第74战术空军中队的欧洲战斗机的特殊制服空对空照片。"
+    ],
+    "226": [
+        {
+            "name": "巴伐利亚虎",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 512,
+                "ymin": 291,
+                "xmax": 1505,
+                "ymax": 584
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 63,
+                "ymin": 778,
+                "xmax": 633,
+                "ymax": 956
+            }
+        },
+        {
+            "name": "第74战术空军中队",
+            "label": "other",
+            "bnd": null
+        },
+        "Air-to-air shot of Eurofighter (30+74) and in special livery Bavarian Tiger (31+01) from Tactical Air Force Squadron 74.",
+        "来自第74战术空军中队的欧洲战斗机（ 30 +74 ）和特殊制服的巴伐利亚虎（ 31 +01 ）的空对空射击。"
+    ],
+    "227": [
+        "A military aircraft and an electronic warfare jet are seen during a flight.",
+        "在飞行过程中可以看到一架军用飞机和一架电子战飞机。"
+    ],
+    "228": [
+        "A military transport plane lands with evacuated individuals.",
+        "一架军用运输机在撤离人员的情况下降落。"
+    ],
+    "230": [
+        "A soldier, carrying a backpack and holding a firearm, is carrying out a combat mission.",
+        "一名士兵背着背包，手持枪支，正在执行战斗任务。"
+    ],
+    "231": [
+        "Soldiers are operating armored vehicles to carry out combat missions in the city.",
+        "士兵们正在驾驶装甲车在城市执行战斗任务。"
+    ],
+    "235": [
+        "Soldiers train together with comrades from several countries to evacuate a school.",
+        "士兵与来自多个国家的同志一起训练撤离一所学校。"
+    ],
+    "236": [
+        "A soldier carrying a backpack, holding a gun and wearing a helmet, is on a mission.",
+        "一名背着背包、拿着枪、戴着头盔的士兵正在执行任务。"
+    ],
+    "237": [
+        {
+            "name": "A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 21,
+                "ymin": 316,
+                "xmax": 1598,
+                "ymax": 803
+            }
+        },
+        "Specialized forces start with the second transport aircraft of type A400M as part of a military evacuation operation.",
+        "特种部队从第二架A400M型运输机开始，作为军事疏散行动的一部分。"
+    ],
+    "238": [
+        {
+            "name": "A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 6,
+                "xmax": 1647,
+                "ymax": 625
+            }
+        },
+        "Specialized forces board a transport plane of type A400M for a military evacuation operation.",
+        "特种部队登上A400M型运输机进行军事疏散行动。"
+    ],
+    "239": [
+        "The commander discusses with specialized forces before departure in the framework of the operation.",
+        "指挥官在出发前在行动框架内与特种部队进行讨论。"
+    ],
+    "240": [
+        "A special forces soldier led a military dog onto a transport plane to carry out a military evacuation operation.",
+        "一名特种部队士兵带领一只军犬登上运输机进行军事疏散行动。"
+    ],
+    "241": [
+        "Specialized forces board a transport plane for a military evacuation operation.",
+        "特种部队登上运输机进行军事疏散行动。"
+    ],
+    "242": [
+        {
+            "name": "A400M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 321,
+                "xmax": 1619,
+                "ymax": 805
+            }
+        },
+        "Specialized forces start with the second transport aircraft of type A400M as part of a military evacuation operation.",
+        "特种部队从第二架A400M型运输机开始，作为军事疏散行动的一部分。"
+    ],
+    "243": [
+        "A ship sailing at sea is under attack.",
+        "一艘在海上航行的船只遭到袭击。"
+    ],
+    "244": [
+        "Soldiers approach the area with a speedboat.",
+        "士兵用快艇接近该地区。"
+    ],
+    "245": [
+        "Soldiers inspect the coastal area.",
+        "士兵检查沿海地区。"
+    ],
+    "246": [
+        "Landing craft in a convoy during a joint evacuation operation of Marines and soldiers.",
+        "在海军陆战队和士兵的联合疏散行动中，登陆艇在车队中。"
+    ],
+    "247": [
+        {
+            "name": "Eagle 4",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 82,
+                "ymin": 278,
+                "xmax": 973,
+                "ymax": 1003
+            }
+        },
+        "Eagle 4 takes off from the landing craft to carry out combat missions.",
+        "Eagle 4从登陆艇起飞执行战斗任务。"
+    ],
+    "248": [
+        {
+            "name": "NH90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 0,
+                "xmax": 1619,
+                "ymax": 1076
+            }
+        },
+        "Injured persons are flown out with an NH90 helicopter.",
+        "受伤人员乘坐NH90直升机离开。"
+    ],
+    "249": [
+        "Soldiers evacuate citizens from an island together.",
+        "士兵们一起从一个岛上撤离公民。"
+    ],
+    "250": [
+        {
+            "name": "澳洲野犬",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 522,
+                "ymin": 289,
+                "xmax": 1264,
+                "ymax": 933
+            }
+        },
+        "Vehicle of type Dingo at a road blockade with soldiers.",
+        "Dingo型车辆在士兵的路障处。"
+    ],
+    "251": [
+        "The soldiers used warships to evacuate the residents on the island.",
+        "士兵们使用军舰撤离岛上的居民。"
+    ],
+    "252": [
+        "A corvette is sailing at full speed at sea.d.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "253": [
+        "A helicopter hovers over the landing deck and deploys soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "256": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A paratrooper jumps out of an NH-90 multi-role transport helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "257": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 289,
+                "ymin": 329,
+                "xmax": 1456,
+                "ymax": 690
+            }
+        },
+        "A multi-purpose helicopter of type NH-90 stands in the terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "259": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A soldier looks out of a NH-90 multi-role transport helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "260": [
+        {
+            "name": "FENNEK",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 404,
+                "ymin": 347,
+                "xmax": 1617,
+                "ymax": 927
+            }
+        },
+        "The commander of the troops, accompanied by soldiers, inspected the capabilities of the \"Fennek\" armored vehicle equipped with observation and reconnaissance equipment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "261": [
+        "A scout takes up an observation post on a military area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "262": [
+        "A soldier is carrying out a mission with a weapon, a combat backpack and a headphone.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "263": [
+        "A photographer holds a camera to photographs the surroundings on a military area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "264": [
+        "A sniper sits in his observation hideout on an area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "265": [
+        "The sniper holds his sniper rifle and engages in evasive shooting on a military ground with 20 soldiers present..",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "266": [
+        "A soldier cross bodies of water.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "267": [
+        "Soldiers enter a building during selection.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 46 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "268": [
+        "A soldier completes night navigation march wearing night vision equipment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "270": [
+        {
+            "name": "n.爱国者",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 59,
+                "ymin": 154,
+                "xmax": 1251,
+                "ymax": 1027
+            }
+        },
+        "Presentation of the PATRIOT weapons system by the soldier.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "271": [
+        {
+            "name": "Fliegerfaust 2 Stinger",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 206,
+                "ymin": 244,
+                "xmax": 803,
+                "ymax": 454
+            }
+        },
+        "Soldiers use Fliegerfaust 2 Stinger on a missile firing range.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "272": [
+        "The fleet service boats are designed as highly efficient early warning, communication, and reconnaissance units.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "273": [
+        {
+            "name": "E-2鹰眼",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 27,
+                "ymin": 363,
+                "xmax": 1262,
+                "ymax": 710
+            }
+        },
+        {
+            "name": "Daesh",
+            "label": "other",
+            "bnd": null
+        },
+        "The E-2 Hawkeye takes off from a carrier in the context of a mission against Daesh.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "274": [
+        "The frigate leaves its home port to participate in a mission for nearly five months.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "275": [
+        "The frigate sets off from the pier to participate in a mission for nearly five months.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "277": [
+        {
+            "name": "非洲",
+            "label": "location",
+            "bnd": null
+        },
+        "A frigate is leaving a naval base in direction of Africa.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "278": [
+        {
+            "name": "毗邻：地中海",
+            "label": "location",
+            "bnd": null
+        },
+        "A frigate is carrying out an international mission in the Mediterranean Sea.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "279": [
+        "A frigate is located in a naval support point.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "280": [
+        "A frigate lies in a naval support point.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "281": [
+        {
+            "name": "SM-2",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 525,
+                "ymin": 245,
+                "xmax": 540,
+                "ymax": 286
+            }
+        },
+        "A frigate fires a missile of type SM 2.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "283": [
+        {
+            "name": "BV 206 D",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 686,
+                "ymin": 469,
+                "xmax": 1311,
+                "ymax": 1033
+            }
+        },
+        "Leadership and transport vehicle BV 206 D are in front of a monastery.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "284": [
+        {
+            "name": "BV 206 S",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 35,
+                "ymin": 146,
+                "xmax": 1645,
+                "ymax": 870
+            }
+        },
+        "The transport vehicle BV 206 S belongs to a variant sanitary troop.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "287": [
+        {
+            "name": "阿尔卑斯山脉",
+            "label": "location",
+            "bnd": null
+        },
+        "A Soldier completes rope climbing and mountain rescue training in the Alps.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "288": [
+        {
+            "name": "阿尔卑斯山脉",
+            "label": "location",
+            "bnd": null
+        },
+        "A soldier completes climbing training using ropes in the Alps.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "289": [
+        "A soldier is doing rock climbing training wearing a helmet.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "291": [
+        {
+            "name": "阿尔卑斯山脉",
+            "label": "location",
+            "bnd": null
+        },
+        "Soldiers train in rock climbing on the Alps while wearing helmets.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "292": [
+        {
+            "name": "阿尔卑斯山脉",
+            "label": "location",
+            "bnd": null
+        },
+        "A soldier is climbing the Alps.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "293": [
+        {
+            "name": "NH90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 7,
+                "xmax": 1188,
+                "ymax": 780
+            }
+        },
+        "Mountain infantrymen taking off from a multi-purpose helicopter NH90 during an operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "294": [
+        {
+            "name": "NH90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 374,
+                "ymin": 261,
+                "xmax": 929,
+                "ymax": 592
+            }
+        },
+        "The NH90 multi-role helicopter is conducting operation test for \"Flying in the Mountains\".",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "295": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A pilot sits in an NH-90 helicopter during mountain flight training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "296": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 61,
+                "ymin": 8,
+                "xmax": 1401,
+                "ymax": 920
+            }
+        },
+        "The crew of an NH-90 multi-role helicopter lands on a ridge.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "297": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A aircraft mechanic monitor rear clearance while flying with the NH-90 multi-role helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "298": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 535,
+                "ymin": 355,
+                "xmax": 1218,
+                "ymax": 673
+            }
+        },
+        "The crew of the NH-90 multi-role helicopter fly along cliffs during mountain flight training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "299": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A aircraft technician learn how to handle an external load with the NH-90 multi-purpose helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "300": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 193,
+                "ymin": 131,
+                "xmax": 1339,
+                "ymax": 918
+            }
+        },
+        "A military mountain leader and a medic are lifted up by a winch during an operation with an NH-90 multi-purpose helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "302": [
+        "A cavalryman on horseback is carrying out a reconnaissance mission.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "303": [
+        "A soldier is cleaning the stable.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "305": [
+        "The soldier unloads a memorial stone from the honor garden of Mission in the Memorial Grove.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "306": [
+        "Soldiers used a crane to unload a memorial stone from the memorial forest.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "308": [
+        {
+            "name": "米兰",
+            "label": "weapon",
+            "bnd": null
+        },
+        "Soldiers with the wire-guided anti-tank missile system MILAN.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "309": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 6,
+                "ymin": 78,
+                "xmax": 1614,
+                "ymax": 1047
+            }
+        },
+        "Tiger combat helicopters start after refueling and rearming from the forward supply point.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "310": [
+        "Combat helmet with camouflage cover, part of a soldier's personal equipment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "311": [
+        "Soldiers are in combat on a military training ground as part of preparation for deployment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "314": [
+        "A soldier is engaged in combat on an armored vehicle.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "315": [
+        "Soldiers wearing camouflage uniforms are sitting on a military armored vehicle conducting a military exercise.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "316": [
+        "Soldiers armed with weaponry and wearing helmets are carrying out operations in a military zone.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "320": [
+        "A warship departs on the coast as part of a harmonization operation between special marine forces and special army forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "321": [
+        "A Soldier land on the coast as part of a harmonization operation between special forces of the navy and special forces from the army.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "325": [
+        "The corvette leaves the harbor.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "326": [
+        "Special operations division soldiers cross bodies of water using a tensioned rope.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "327": [
+        "Sailing school ship under full sail in waters in motion.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "328": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 227,
+                "ymin": 284,
+                "xmax": 1311,
+                "ymax": 731
+            }
+        },
+        "A Tornado-type combat aircraft flies low through a canyon.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 45 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "329": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 373,
+                "ymin": 420,
+                "xmax": 965,
+                "ymax": 705
+            }
+        },
+        "A Eurofighter combat aircraft takes off from a base.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "330": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 206,
+                "ymin": 36,
+                "xmax": 1445,
+                "ymax": 875
+            }
+        },
+        "Combat aircraft of type Eurofighter with guided bomb flies in training area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "331": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 55,
+                "ymin": 374,
+                "xmax": 1466,
+                "ymax": 937
+            }
+        },
+        "A Tornado combat aircraft takes off from the ground.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "332": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 23,
+                "ymin": 318,
+                "xmax": 1381,
+                "ymax": 829
+            }
+        },
+        "A Tornado takes off from a base.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "333": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 65,
+                "ymin": 557,
+                "xmax": 357,
+                "ymax": 646
+            }
+        },
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 512,
+                "ymin": 457,
+                "xmax": 994,
+                "ymax": 603
+            }
+        },
+        "A tank aircraft refuels Eurofighter jets.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "334": [
+        {
+            "name": "Tornado",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 21,
+                "ymin": 82,
+                "xmax": 1619,
+                "ymax": 1080
+            }
+        },
+        "A Tornado flies low through a canyon.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "339": [
+        "A military helicopter is currently supporting firefighting operations.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "340": [
+        "A recruit overcomes an obstacle course as part of basic training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "341": [
+        "A recruit crawls under low barbed wire.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "342": [
+        {
+            "name": "CPR话术",
+            "label": "other",
+            "bnd": null
+        },
+        "The soldier is performing CPR on a manikin.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "345": [
+        "Soldiers march in the field with combat supplies on their backs.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "347": [
+        "Soldiers are carrying out tasks on the battlefield wearing helmets.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "349": [
+        "Soldiers carry out combat shooting in the mountains using rifles during inspection on the plateau.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "350": [
+        "A recruit overcomes a rope bridge spanning a 30-meter-wide gorge.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "351": [
+        "A recruit overcomes a rope bridge across a 30-meter-wide gorge on a high plateau.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "355": [
+        "A recruit overcomes the wire obstacle on the obstacle course during the inspection.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "356": [
+        {
+            "name": "CH 53",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 47,
+                "ymin": 196,
+                "xmax": 639,
+                "ymax": 436
+            }
+        },
+        "A medium transport helicopter CH 53 on a control flight over the city and surrounding area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "357": [
+        "Soldiers aim a tank howitzer.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "359": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 837,
+                "ymin": 595,
+                "xmax": 971,
+                "ymax": 671
+            }
+        },
+        "Soldiers operate a medium artillery rocket system II (MARS) on the training ground.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "361": [
+        {
+            "name": "手枪8",
+            "label": "weapon",
+            "bnd": null
+        },
+        "A munitions dispenser loaded with a magazine for Pistol 8.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "362": [
+        {
+            "name": "P8",
+            "label": "weapon",
+            "bnd": null
+        },
+        "An instructor guides a soldier to analyze the shooting situation with the P8 pistol in a barracks.\n",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "363": [
+        {
+            "name": "P8",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 996,
+                "ymin": 352,
+                "xmax": 1017,
+                "ymax": 372
+            }
+        },
+        "Shooting with the P8 pistol happens in a barracks with soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "365": [
+        {
+            "name": "P8",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 745,
+                "ymin": 249,
+                "xmax": 903,
+                "ymax": 392
+            }
+        },
+        "Soldiers shoot with the P8 pistol.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "371": [
+        {
+            "name": "CH-53GS",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 6,
+                "xmax": 1619,
+                "ymax": 969
+            }
+        },
+        "A transport helicopter CH-53GS flies through the air.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "372": [
+        "A transport helicopter lands in dust on a military area surrounded by soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "373": [
+        {
+            "name": "CH-53GS",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 189,
+                "ymin": 138,
+                "xmax": 1381,
+                "ymax": 574
+            }
+        },
+        "A transport helicopter CH-53GS takes off in dust on a military area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "380": [
+        "Medical equipment and devices are unloaded from a transport aircraft for assistance in a foreign country.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "381": [
+        {
+            "name": "加薩地帶",
+            "label": "location",
+            "bnd": null
+        },
+        {
+            "name": "C-130J Hercules",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 355,
+                "ymin": 2,
+                "xmax": 1619,
+                "ymax": 840
+            }
+        },
+        "Soldiers load a transport aircraft of type C-130J Hercules with aid supplies for the Gaza Strip.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "384": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 754,
+                "ymin": 469,
+                "xmax": 933,
+                "ymax": 544
+            }
+        },
+        "The H145M LUH SOF helicopter lands in the desert.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "385": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 27,
+                "ymin": 153,
+                "xmax": 1430,
+                "ymax": 780
+            }
+        },
+        "The H145M LUH SOF helicopter is prepared for takeoff by soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "386": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 386,
+                "ymin": 357,
+                "xmax": 1388,
+                "ymax": 673
+            }
+        },
+        "The H145M LUH SOF multi-role light helicopter starts up during a heat trial.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "387": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 486,
+                "ymin": 44,
+                "xmax": 1575,
+                "ymax": 803
+            }
+        },
+        "A lightweight multi-role helicopter H145M LUH SOF flies over the landscape.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "396": [
+        {
+            "name": "CH-53",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 252,
+                "ymin": 14,
+                "xmax": 1352,
+                "ymax": 584
+            }
+        },
+        "A transport helicopter CH-53 unloads sandbags for dam construction during a flood relief operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "400": [
+        {
+            "name": "Pionierpanzer Dachs",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 308,
+                "ymin": 569,
+                "xmax": 1099,
+                "ymax": 867
+            }
+        },
+        "Soldiers support with the Pionierpanzer Dachs during the flood relief operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "401": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1024,
+                "ymin": 59,
+                "xmax": 1534,
+                "ymax": 318
+            }
+        },
+        "A multi-purpose helicopter NH-90 transports material to forces on site during a flood relief operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "402": [
+        {
+            "name": "中梁桥",
+            "label": "other",
+            "bnd": {
+                "xmin": 144,
+                "ymin": 614,
+                "xmax": 1124,
+                "ymax": 946
+            }
+        },
+        "Pioneers build a Medium Girder Bridge for residents during flood relief operations.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "403": [
+        {
+            "name": "先锋坦克飞艇",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 153,
+                "ymin": 395,
+                "xmax": 1364,
+                "ymax": 737
+            }
+        },
+        "Soldiers prepare a ford for other vehicles with the Pioneer Tank Dachs during a flood disaster.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "406": [
+        {
+            "name": "Pionierpanzer Dachs",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 710,
+                "ymin": 369,
+                "xmax": 1460,
+                "ymax": 990
+            }
+        },
+        "Soldiers are operating with the Pionierpanzer Dachs in a flood relief effort.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "409": [
+        {
+            "name": "中梁桥",
+            "label": "other",
+            "bnd": {
+                "xmin": 204,
+                "ymin": 367,
+                "xmax": 1350,
+                "ymax": 784
+            }
+        },
+        "A truck drives over the erected Medium Girder Bridge during flood relief efforts.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "410": [
+        "A technician checks a helicopter drone for an upcoming test flight from a facility.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "411": [
+        "An unmanned helicopter is conducting a test flight over a training base.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "412": [
+        "A technician is checking an unmanned helicopter about to conduct a test flight.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "413": [
+        {
+            "name": "EC 135",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 144,
+                "ymin": 25,
+                "xmax": 1273,
+                "ymax": 669
+            }
+        },
+        "Pilots train with the EC 135 helicopter for low-level flight as part of their training to become helicopter instructors.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "414": [
+        {
+            "name": "EC 135",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "Pilots train with the simulator of the EC 135 helicopter as part of their training to become a helicopter flight instructor.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "418": [
+        {
+            "name": "EC 135",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 544,
+                "ymin": 97,
+                "xmax": 1460,
+                "ymax": 697
+            }
+        },
+        "Pilots train with the EC 135 training helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 44 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "421": [
+        "A transport armored vehicle drives into a forward operating base position.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "422": [
+        "Soldiers prepares one-man pack rations in the pot in the camp.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "423": [
+        "View of the patrol vehicles from the cargo hold of a helicopter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "425": [
+        {
+            "name": "NH-90海狮",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 23,
+                "xmax": 1620,
+                "ymax": 986
+            }
+        },
+        "The new multi-role helicopter NH-90 NTH Sea Lion stands ready for official commissioning on the grounds of the naval aviation support point.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "426": [
+        {
+            "name": "Sea King",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 1186,
+                "ymin": 525,
+                "xmax": 1611,
+                "ymax": 697
+            }
+        },
+        {
+            "name": "NH-90海狮",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 21,
+                "ymin": 386,
+                "xmax": 1350,
+                "ymax": 761
+            }
+        },
+        "A helicopter of type Sea King stands together with its successor on the grounds alongside a group of soldiers in the context of commissioning the multi-role helicopter NH-90 NTH Sea Lion.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "427": [
+        {
+            "name": "NH-90海狮",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 59,
+                "ymin": 176,
+                "xmax": 1617,
+                "ymax": 873
+            }
+        },
+        "The new multi-role helicopter NH-90 NTH Sea Lion lands on the grounds of the naval aviation support point during its official commissioning.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "428": [
+        "A frigate sails in the ocean on its way to deployment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "429": [
+        "A frigate is sailing across the ocean to carry out a mission.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "430": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 471,
+                "ymin": 400,
+                "xmax": 1380,
+                "ymax": 965
+            }
+        },
+        "Capability demonstration of the Leopard 2 A7 main battle tank at the \"Land Forces in Operation\" station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "431": [
+        "2,000 self-propelled howitzers during firing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "432": [
+        {
+            "name": "虎牌啤酒",
+            "label": "vehicle",
+            "bnd": null
+        },
+        "A Tiger tank evades after fire support on a military area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "433": [
+        {
+            "name": "Mars",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 562,
+                "ymin": 265,
+                "xmax": 1430,
+                "ymax": 834
+            }
+        },
+        "Deployment of the Mars rocket launcher on a military training ground.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "434": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 220,
+                "ymin": 620,
+                "xmax": 451,
+                "ymax": 729
+            }
+        },
+        "The Leopard 2 A6 combat tank engages in a firefight.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "435": [
+        {
+            "name": "NH90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 337,
+                "ymin": 44,
+                "xmax": 1602,
+                "ymax": 711
+            }
+        },
+        "Soldiers transfer an injured person with the NH90 multi-purpose helicopter into a rescue center.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "436": [
+        "A helicopter approaches a station during an operation involving joint forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "438": [
+        {
+            "name": "Sch 眉tzenpanzer Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 338,
+                "ymin": 4,
+                "xmax": 998,
+                "ymax": 941
+            }
+        },
+        "Armored grenadiers sit on Sch眉tzenpanzer Marder during an operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "439": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 439,
+                "ymin": 604,
+                "xmax": 834,
+                "ymax": 944
+            }
+        },
+        "Leopard 2 A6 avoids collision during an operation on a military ground.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "440": [
+        {
+            "name": "NH90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 19,
+                "ymin": 297,
+                "xmax": 1327,
+                "ymax": 719
+            }
+        },
+        {
+            "name": "Forward Air MedEvac",
+            "label": "other",
+            "bnd": null
+        },
+        "A multi-role helicopter NH90 Forward Air MedEvac (FAM) lands outside a village on an area.",
+        "一架多用途直升机NH90向前空中医疗后送（FAM）降落在一个地区的村庄外。"
+    ],
+    "441": [
+        "The rifle troop conducts dismounted combat in urban terrain. ",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "442": [
+        {
+            "name": "Puma",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 48,
+                "ymin": 429,
+                "xmax": 920,
+                "ymax": 926
+            }
+        },
+        "The Puma armored infantry fighting vehicle supports the advance of riflemen and mechanized infantrymen.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "443": [
+        "A sniper in camouflage moves across the asphalt.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "444": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 255,
+                "ymin": 121,
+                "xmax": 1354,
+                "ymax": 686
+            }
+        },
+        "A tracked vehicle, type main battle tank Leopard 2, while driving through a riverbed.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "445": [
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 160,
+                "ymin": 40,
+                "xmax": 1549,
+                "ymax": 714
+            }
+        },
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 190,
+                "ymin": 597,
+                "xmax": 1365,
+                "ymax": 1018
+            }
+        },
+        "The new transport helicopter NH-90 during disembarkation of soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "446": [
+        "A main battle tank is advancing at full speed on the battlefield.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "447": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 106,
+                "ymin": 367,
+                "xmax": 645,
+                "ymax": 843
+            }
+        },
+        {
+            "name": "B 眉ffel",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 401,
+                "ymin": 207,
+                "xmax": 582,
+                "ymax": 358
+            }
+        },
+        "The mountain crew with the mountain tank B眉ffel and a second Leopard 2 A6 pulls the broken-down combat tank out of the water at the station during the information lesson.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "448": [
+        {
+            "name": "Iveko Trekker",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 257,
+                "ymin": 19,
+                "xmax": 1456,
+                "ymax": 901
+            }
+        },
+        {
+            "name": "ABC-Defense",
+            "label": "other",
+            "bnd": null
+        },
+        "The Iveko Trekker presents the decontamination beam on the vehicle, enabling the decontamination of road and terrain sections at the \"ABC-Defense\" station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "449": [
+        "Soldiers fought in a village with the help of an abandoned vehicle during an operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "450": [
+        {
+            "name": "Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 805,
+                "ymin": 206,
+                "xmax": 1262,
+                "ymax": 474
+            }
+        },
+        "Armored infantrymen with Marder tanks are deployed in the combat area.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "451": [
+        {
+            "name": "M113",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 482,
+                "ymin": 522,
+                "xmax": 1367,
+                "ymax": 1018
+            }
+        },
+        "Soldiers stand with their armored vehicles of type M113 in position and fire 120mm mortars.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "452": [
+        {
+            "name": "豹式2A6",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 465,
+                "ymin": 480,
+                "xmax": 1037,
+                "ymax": 614
+            }
+        },
+        "Main battle tank Leopard 2A6 engages enemy while two rocket launchers fire rockets at a station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "453": [
+        {
+            "name": "Marder 1A3",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 99,
+                "ymin": 218,
+                "xmax": 1530,
+                "ymax": 918
+            }
+        },
+        "Armored infantrymen overcome an obstacle with the Marder 1A3 infantry fighting vehicle at a station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "454": [
+        {
+            "name": "豹式2A6",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 905,
+                "ymin": 206,
+                "xmax": 1503,
+                "ymax": 440
+            }
+        },
+        "The Leopard 2A6 combat tank demonstrates its watertightness at a station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "455": [
+        {
+            "name": "豹式2A7",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 306,
+                "ymin": 452,
+                "xmax": 1422,
+                "ymax": 858
+            }
+        },
+        "Capability demonstration of the Leopard 2A7 main battle tank at the \"Land Forces in Operation\" station.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "456": [
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 148,
+                "ymin": 258,
+                "xmax": 877,
+                "ymax": 977
+            }
+        },
+        {
+            "name": "獵豹2型坦克",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 523,
+                "ymin": 75,
+                "xmax": 1072,
+                "ymax": 728
+            }
+        },
+        "The mountain troop detachment pulls the failed battle tank Leopard 2 A6 out of the water during the operation. The soldiers are involved.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 15 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "457": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 288,
+                "ymin": 632,
+                "xmax": 761,
+                "ymax": 961
+            }
+        },
+        "The medium artillery rocket system II (MARS) shoots live ammunition.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "460": [
+        "A set of self-propelled howitzers is firing to test the artillery's firepower and performance.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "461": [
+        {
+            "name": "Panzerhaubitze 2000",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 114,
+                "ymin": 287,
+                "xmax": 1216,
+                "ymax": 990
+            }
+        },
+        {
+            "name": "Gefechtsverband艺术任务力量",
+            "label": "other",
+            "bnd": null
+        },
+        "A Panzerhaubitze 2000 moves into position as part of Gefechtsverband Arty-Task Force.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 11 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "462": [
+        {
+            "name": "3月",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 359,
+                "ymin": 216,
+                "xmax": 1031,
+                "ymax": 684
+            }
+        },
+        "A medium artillery rocket system II (MARS) drives through the terrain of the military area accompanied by soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "464": [
+        {
+            "name": "Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 546,
+                "xmax": 559,
+                "ymax": 1071
+            }
+        },
+        "Soldiers camouflage a Marder infantry fighting vehicle with camouflage nets.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "465": [
+        "A column of different vehicles drives on a country road.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "466": [
+        {
+            "name": "Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 459,
+                "ymin": 153,
+                "xmax": 1318,
+                "ymax": 892
+            }
+        },
+        {
+            "name": "Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 1099,
+                "ymin": 414,
+                "xmax": 1537,
+                "ymax": 784
+            }
+        },
+        "Marder armored vehicles drive in convoy through terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "467": [
+        {
+            "name": "Marder",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 10,
+                "ymin": 272,
+                "xmax": 1615,
+                "ymax": 1067
+            }
+        },
+        "Armored infantrymen ride in Marder-type armored personnel carriers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "468": [
+        {
+            "name": "Eurofighter",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 66,
+                "ymin": 212,
+                "xmax": 1212,
+                "ymax": 768
+            }
+        },
+        "Eurofighter are standing on the edge of the flight line as they roll by to start.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "469": [
+        {
+            "name": "富赫斯",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 293,
+                "ymin": 325,
+                "xmax": 946,
+                "ymax": 926
+            }
+        },
+        "Soldiers ride in a Fuchs armored transport vehicle through snowy terrain as part of testing new procedures for future mid-term army forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "470": [
+        {
+            "name": "51 GTK拳击手型",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 697,
+                "ymin": 448,
+                "xmax": 1041,
+                "ymax": 769
+            }
+        },
+        "Soldiers drive through snowy terrain in a GTK Boxer as part of testing new procedures for future medium-sized forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 43 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "471": [
+        {
+            "name": "51 GTK拳击手型",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 22,
+                "ymin": 123,
+                "xmax": 1072,
+                "ymax": 1013
+            }
+        },
+        "Soldiers prepare for the next mission in a GTK Boxer as part of testing new procedures for future mid-term forces of the Army.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "472": [
+        {
+            "name": "51 GTK拳击手型",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 183,
+                "ymin": 301,
+                "xmax": 621,
+                "ymax": 666
+            }
+        },
+        "Soldiers drive through snowy terrain in a GTK Boxer as part of testing new procedures for future medium-sized forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "473": [
+        {
+            "name": "51 GTK拳击手型",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 629,
+                "ymin": 208,
+                "xmax": 1373,
+                "ymax": 967
+            }
+        },
+        "Soldiers drive the GTK Boxer through snowy terrain as part of testing new procedures for future medium forces.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "476": [
+        "A military dog handler tends to an injured dog dummy during a course at a school for military canine services.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 55 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "477": [
+        "Medics rescue an injured person with a stretcher and a pulley system from a building.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "478": [
+        "Medics rescue an injured person from a building using a stretcher and pulley system.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "479": [
+        {
+            "name": "LUH 1.45亿",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 97,
+                "xmax": 1617,
+                "ymax": 905
+            }
+        },
+        "Medics rescue an injured person with a light utility helicopter LUH 145M.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "482": [
+        "Medical staff drove a vehicle to transport the injured.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "484": [
+        "Medics rescue an injured person from a car.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "487": [
+        {
+            "name": "KZO",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 688,
+                "ymin": 259,
+                "xmax": 871,
+                "ymax": 391
+            }
+        },
+        "The KZO reconnaissance drone lands on a military area during an operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "488": [
+        {
+            "name": "KZO",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 686,
+                "ymin": 301,
+                "xmax": 1043,
+                "ymax": 495
+            }
+        },
+        "Soldiers load a recovered reconnaissance drone KZO onto a launch vehicle.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "489": [
+        {
+            "name": "KZO",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 520,
+                "ymin": 240,
+                "xmax": 820,
+                "ymax": 474
+            }
+        },
+        "Soldiers load a recovered reconnaissance drone KZO onto a launch vehicle.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "490": [
+        {
+            "name": "KZO",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 765,
+                "ymin": 654,
+                "xmax": 864,
+                "ymax": 707
+            }
+        },
+        "The KZO reconnaissance drone lands on a military area during an operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "491": [
+        {
+            "name": "KZO",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 922,
+                "ymin": 187,
+                "xmax": 1156,
+                "ymax": 355
+            }
+        },
+        "The KZO reconnaissance drone starts.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "492": [
+        "A service dog handler puts a carrying device on their service dog.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "493": [
+        "A service dog is lying beside the supplies it carries.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "494": [
+        "A field ranger rappels down with his service dog in a quarry during multinational training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "495": [
+        "A soldier rappels down with a service dog in a quarry during multinational training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "496": [
+        "A Hauptfeldwebel overcomes an obstacle with his service dog.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "497": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 233,
+                "ymin": 140,
+                "xmax": 1505,
+                "ymax": 688
+            }
+        },
+        "A Tiger combat helicopter flies an attack on assigned ground targets.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "498": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 95,
+                "ymin": 227,
+                "xmax": 1375,
+                "ymax": 820
+            }
+        },
+        "A Tiger attack helicopter launches an assault on a designated ground target.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "499": [
+        "A diver waits for his deployment on the ship.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "500": [
+        "A soldier dives with an external air supply.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 29 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "501": [
+        "A diver inspects the shoreline with a metal detector accompanied by soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "502": [
+        "A diver is carrying out a diving mission under the lake wearing diving equipment.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "503": [
+        {
+            "name": "爆炸物处理",
+            "label": "other",
+            "bnd": null
+        },
+        "A diver examines the shoreline with a metal detector as part of Explosive Ordnance Disposal training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 25 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "504": [
+        {
+            "name": "Leopard 2A7V",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 223,
+                "ymin": 384,
+                "xmax": 1199,
+                "ymax": 884
+            }
+        },
+        "Soldiers drive the new Leopard 2A7V combat tank through the terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "505": [
+        {
+            "name": "Leopard 2A7V",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 408,
+                "ymin": 355,
+                "xmax": 1471,
+                "ymax": 865
+            }
+        },
+        "Soldiers ride through terrain with new Leopard 2A7V battle tank.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "506": [
+        {
+            "name": "Leopard 2A7V",
+            "label": "vehicle",
+            "bnd": {
+                "xmin": 129,
+                "ymin": 372,
+                "xmax": 1543,
+                "ymax": 665
+            }
+        },
+        "Soldiers operate the new Leopard 2A7V main battle tank through terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "507": [
+        "Soldiers care for an injured person at the accident site.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "508": [
+        {
+            "name": "CH-53",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 102,
+                "xmax": 1619,
+                "ymax": 844
+            }
+        },
+        "The transport helicopter CH-53 drops off soldiers to secure the terrain near the crash site.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 19 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "511": [
+        "International operation with all branches of the military, 5 combat divers deployed to take initial security measures on land during landing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "512": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": null
+        },
+        "A combat swimmer shoots from a H145M LUH SOF helicopter alongside soldiers.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 16 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "513": [
+        "A sniper observes the terrain together with his spotter.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 14 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "514": [
+        {
+            "name": "海军特种部队司令部（ KSM ）。",
+            "label": "other",
+            "bnd": null
+        },
+        "Combat swimmers storm and secure a building within an operation of the Naval Special Forces Command (KSM).",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 13 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "515": [
+        {
+            "name": "H145M LUH SOF",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 628,
+                "ymin": 160,
+                "xmax": 1199,
+                "ymax": 524
+            }
+        },
+        "Soldiers fast rope from a light multi-purpose helicopter H145M LUH SOF with a special forces command.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 12 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "516": [
+        "Navy combat swimmers deploy on land as part of an evacuation operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 10 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "517": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 228,
+                "ymin": 43,
+                "xmax": 1330,
+                "ymax": 544
+            }
+        },
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 829,
+                "ymin": 612,
+                "xmax": 1257,
+                "ymax": 1051
+            }
+        },
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 1389,
+                "ymin": 720,
+                "xmax": 1609,
+                "ymax": 1038
+            }
+        },
+        "Combat swimmers with G36k weapon and Suppressor secure each other during landing in tropical terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "518": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 2,
+                "ymin": 278,
+                "xmax": 1486,
+                "ymax": 982
+            }
+        },
+        "A combat swimmer with a G36k rifle and suppressor takes over a security area during landing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 08 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "519": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 187,
+                "ymin": 325,
+                "xmax": 1097,
+                "ymax": 812
+            }
+        },
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 594,
+                "ymin": 307,
+                "xmax": 821,
+                "ymax": 391
+            }
+        },
+        "Combat swimmers secure each other during landing in tropical terrain with G36k weapons and suppressors.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "521": [
+        "A troop of special marine forces overcomes a longer distance with underwater scooters to the landing site.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "522": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 315,
+                "ymin": 296,
+                "xmax": 581,
+                "ymax": 469
+            }
+        },
+        "A combat swimmer with G36k and suppressor carries out a prohibition mission after landing in tropical terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "523": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 222,
+                "ymin": 293,
+                "xmax": 826,
+                "ymax": 544
+            }
+        },
+        "A combat swimmer with the G36k weapon and suppressor secures after landing in tropical terrain.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 02 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "524": [
+        "Navy combat swimmers conduct a landing operation as part of an evacuation mission.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 42 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "525": [
+        "Navy special forces perform evasive maneuvers and engage in a firefight.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "526": [
+        "Marines engage in evasive maneuvers and firefight on a military ground.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "528": [
+        "A naval commando performs evasive maneuvers and engage in a firefight.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "529": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 127,
+                "ymin": 494,
+                "xmax": 366,
+                "ymax": 554
+            }
+        },
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 498,
+                "ymin": 468,
+                "xmax": 724,
+                "ymax": 532
+            }
+        },
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 1067,
+                "ymin": 481,
+                "xmax": 1341,
+                "ymax": 550
+            }
+        },
+        "Combat swimmers with the G36k weapon and suppressor take up their security zones after surfacing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "530": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 95,
+                "ymin": 405,
+                "xmax": 953,
+                "ymax": 727
+            }
+        },
+        "A combat swimmer with a G36k weapon and suppressor observes a landing site from the water.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 54 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "531": [
+        {
+            "name": "G36k",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 403,
+                "xmax": 1617,
+                "ymax": 1048
+            }
+        },
+        "A combat swimmer with a G36k weapon secures the team's advance from the water.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "532": [
+        "Navy combat swimmers conduct a land deployment as part of an evacuation operation.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 51 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "539": [
+        "Soldiers marching in the desert during climate zone training.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "540": [
+        "A helicopter from a special operations force air element.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "542": [
+        "A convoy drives through a capital city on its way to another location.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 47 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "543": [
+        {
+            "name": "联合国",
+            "label": "other",
+            "bnd": null
+        },
+        "A corvette participates a UN mission with 50 soldiers on board.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 46 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "544": [
+        {
+            "name": "NATO",
+            "label": "other",
+            "bnd": null
+        },
+        "The corvette leaves the harbor as part of the NATO support mission.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "545": [
+        {
+            "name": "密集阵 导弹",
+            "label": "weapon",
+            "bnd": {
+                "xmin": 939,
+                "ymin": 357,
+                "xmax": 1220,
+                "ymax": 450
+            }
+        },
+        "A corvette fires a RAM Rolling Airframe Missile from its forward launcher.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 44 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "546": [
+        {
+            "name": "NATO",
+            "label": "other",
+            "bnd": null
+        },
+        "The corvette leaves the harbor in the framework of the NATO support mission.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "548": [
+        "A multi-role helicopter lands on a test range during cold weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "549": [
+        "A multi-role helicopter lands on a test range during cold-weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "550": [
+        {
+            "name": "德国",
+            "label": "location",
+            "bnd": null
+        },
+        "A multi-purpose helicopter lands on a test range after a transfer flight from Germany as part of a cold-weather trial.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "551": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 119,
+                "ymin": 327,
+                "xmax": 1407,
+                "ymax": 907
+            }
+        },
+        "Combat helicopter Tiger parked with additional covers on test range during cold-weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "552": [
+        "A multi-purpose helicopter lifts an external load on a test range during cold-weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 35 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "553": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 223,
+                "ymin": 136,
+                "xmax": 1428,
+                "ymax": 601
+            }
+        },
+        "Tiger helicopter lands on test range during cold-weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "554": [
+        {
+            "name": "虎牌啤酒",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 46,
+                "xmax": 1456,
+                "ymax": 941
+            }
+        },
+        {
+            "name": "NH 90",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 631,
+                "ymin": 367,
+                "xmax": 1620,
+                "ymax": 841
+            }
+        },
+        "Combat helicopters Tiger and multi-role helicopters NH-90 are parked after reconnaissance flights on a test range during cold-weather testing.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 33 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "555": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 177,
+                "ymin": 156,
+                "xmax": 1509,
+                "ymax": 745
+            }
+        },
+        "The helicopter squadron tests its new H145M helicopter in rough weather conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "556": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 8,
+                "ymin": 0,
+                "xmax": 1619,
+                "ymax": 1077
+            }
+        },
+        "A helicopter squadron tests its new H145M helicopter in rough weather conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 30 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "557": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 0,
+                "ymin": 333,
+                "xmax": 1605,
+                "ymax": 1022
+            }
+        },
+        "The squadron tests its new H145M helicopter in rough weather conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 28 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "558": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 136,
+                "ymin": 55,
+                "xmax": 589,
+                "ymax": 383
+            }
+        },
+        "The helicopter squadron tests its new H145M helicopter in rough weather.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "559": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 114,
+                "ymin": 350,
+                "xmax": 1131,
+                "ymax": 670
+            }
+        },
+        "The helicopter squadron is preparing for the test of its new H145M helicopter in rough weather conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "560": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 72,
+                "ymin": 210,
+                "xmax": 790,
+                "ymax": 576
+            }
+        },
+        "A new H145M helicopter is tested under extreme conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "561": [
+        {
+            "name": "H145M",
+            "label": "aircraft",
+            "bnd": {
+                "xmin": 25,
+                "ymin": 282,
+                "xmax": 1403,
+                "ymax": 875
+            }
+        },
+        "A new H145M helicopter is being tested in extreme conditions.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ],
+    "562": [
+        {
+            "name": "ABC",
+            "label": "other",
+            "bnd": null
+        },
+        {
+            "name": "组合笔训练模拟器",
+            "label": "other",
+            "bnd": {
+                "xmin": 903,
+                "ymin": 401,
+                "xmax": 1105,
+                "ymax": 467
+            }
+        },
+        "Soldiers use the \"Combo Pen Training Simulator\" (autoinjector, C-antidote medication) for ABC defense.",
+        "MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  23 HOURS 41 MINUTES 22 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
+    ]
+}
